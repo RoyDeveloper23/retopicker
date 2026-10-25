@@ -1,0 +1,1445 @@
+fecha,proveedor,ciudad,pedidos_asignados,webhooks_recibidos
+2026-08-22,DiDi,Bogotá,7,28
+2026-08-22,DiDi,Ciudad de México,4,16
+2026-08-22,DiDi,Guayaquil,1,4
+2026-08-22,DiDi,Lima,3,12
+2026-08-22,DiDi,Medellín,2,8
+2026-08-22,DiDi,Quito,2,8
+2026-08-22,Flota propia,Bogotá,4,16
+2026-08-22,Flota propia,Ciudad de México,2,8
+2026-08-22,Flota propia,Guayaquil,1,4
+2026-08-22,Flota propia,Medellín,2,8
+2026-08-22,Pedidos Ya,Bogotá,5,20
+2026-08-22,Pedidos Ya,Ciudad de México,3,10
+2026-08-22,Pedidos Ya,Guayaquil,1,4
+2026-08-22,Pedidos Ya,Medellín,1,4
+2026-08-22,Pedidos Ya,Quito,1,4
+2026-08-22,Rappi,Bogotá,3,12
+2026-08-22,Rappi,Ciudad de México,6,24
+2026-08-22,Rappi,Lima,4,16
+2026-08-22,Rappi,Medellín,6,24
+2026-08-22,Uber Direct,Bogotá,2,8
+2026-08-22,Uber Direct,Ciudad de México,7,28
+2026-08-22,Uber Direct,Lima,3,12
+2026-08-22,Uber Direct,Medellín,3,12
+2026-08-22,Uber Direct,Quito,3,12
+2026-08-23,DiDi,Bogotá,12,46
+2026-08-23,DiDi,Ciudad de México,2,8
+2026-08-23,DiDi,Medellín,2,8
+2026-08-23,Flota propia,Bogotá,3,12
+2026-08-23,Flota propia,Ciudad de México,4,16
+2026-08-23,Flota propia,Guayaquil,1,4
+2026-08-23,Flota propia,Lima,1,4
+2026-08-23,Flota propia,Medellín,3,12
+2026-08-23,Flota propia,Quito,1,4
+2026-08-23,Pedidos Ya,Bogotá,1,4
+2026-08-23,Pedidos Ya,Ciudad de México,5,20
+2026-08-23,Pedidos Ya,Guayaquil,1,4
+2026-08-23,Pedidos Ya,Lima,1,4
+2026-08-23,Pedidos Ya,Medellín,2,8
+2026-08-23,Pedidos Ya,Quito,1,4
+2026-08-23,Rappi,Bogotá,1,4
+2026-08-23,Rappi,Ciudad de México,6,24
+2026-08-23,Rappi,Guayaquil,2,8
+2026-08-23,Rappi,Medellín,5,20
+2026-08-23,Rappi,Quito,1,4
+2026-08-23,Uber Direct,Bogotá,8,32
+2026-08-23,Uber Direct,Ciudad de México,4,16
+2026-08-23,Uber Direct,Guayaquil,1,4
+2026-08-23,Uber Direct,Lima,5,20
+2026-08-23,Uber Direct,Medellín,1,4
+2026-08-24,DiDi,Bogotá,6,24
+2026-08-24,DiDi,Ciudad de México,2,8
+2026-08-24,DiDi,Guayaquil,3,12
+2026-08-24,DiDi,Lima,1,4
+2026-08-24,Flota propia,Bogotá,2,8
+2026-08-24,Flota propia,Lima,1,4
+2026-08-24,Flota propia,Quito,2,8
+2026-08-24,Pedidos Ya,Bogotá,2,8
+2026-08-24,Pedidos Ya,Ciudad de México,1,4
+2026-08-24,Pedidos Ya,Guayaquil,1,4
+2026-08-24,Pedidos Ya,Quito,1,4
+2026-08-24,Rappi,Bogotá,10,40
+2026-08-24,Rappi,Ciudad de México,4,16
+2026-08-24,Rappi,Guayaquil,1,4
+2026-08-24,Rappi,Lima,3,10
+2026-08-24,Rappi,Medellín,4,16
+2026-08-24,Rappi,Quito,1,4
+2026-08-24,Uber Direct,Bogotá,6,24
+2026-08-24,Uber Direct,Ciudad de México,6,24
+2026-08-24,Uber Direct,Guayaquil,1,4
+2026-08-24,Uber Direct,Lima,5,20
+2026-08-24,Uber Direct,Medellín,5,20
+2026-08-25,DiDi,Bogotá,10,40
+2026-08-25,DiDi,Ciudad de México,3,12
+2026-08-25,DiDi,Lima,3,12
+2026-08-25,Flota propia,Bogotá,1,4
+2026-08-25,Flota propia,Guayaquil,1,4
+2026-08-25,Flota propia,Medellín,1,4
+2026-08-25,Flota propia,Quito,1,4
+2026-08-25,Pedidos Ya,Ciudad de México,4,16
+2026-08-25,Pedidos Ya,Guayaquil,1,4
+2026-08-25,Pedidos Ya,Lima,1,4
+2026-08-25,Pedidos Ya,Quito,1,4
+2026-08-25,Rappi,Bogotá,2,8
+2026-08-25,Rappi,Ciudad de México,5,20
+2026-08-25,Rappi,Guayaquil,2,6
+2026-08-25,Rappi,Lima,3,10
+2026-08-25,Rappi,Medellín,3,12
+2026-08-25,Uber Direct,Bogotá,1,4
+2026-08-25,Uber Direct,Ciudad de México,1,4
+2026-08-25,Uber Direct,Guayaquil,4,16
+2026-08-25,Uber Direct,Lima,1,4
+2026-08-25,Uber Direct,Medellín,2,8
+2026-08-25,Uber Direct,Quito,1,4
+2026-08-26,DiDi,Bogotá,7,28
+2026-08-26,DiDi,Ciudad de México,3,12
+2026-08-26,DiDi,Guayaquil,2,8
+2026-08-26,DiDi,Lima,1,4
+2026-08-26,DiDi,Medellín,1,4
+2026-08-26,DiDi,Quito,2,8
+2026-08-26,Flota propia,Bogotá,4,16
+2026-08-26,Flota propia,Ciudad de México,1,4
+2026-08-26,Flota propia,Guayaquil,1,4
+2026-08-26,Flota propia,Medellín,1,4
+2026-08-26,Pedidos Ya,Bogotá,1,4
+2026-08-26,Pedidos Ya,Ciudad de México,3,12
+2026-08-26,Pedidos Ya,Guayaquil,1,4
+2026-08-26,Pedidos Ya,Lima,1,4
+2026-08-26,Pedidos Ya,Medellín,2,8
+2026-08-26,Rappi,Bogotá,5,20
+2026-08-26,Rappi,Ciudad de México,5,20
+2026-08-26,Rappi,Guayaquil,2,8
+2026-08-26,Rappi,Lima,2,6
+2026-08-26,Rappi,Medellín,4,14
+2026-08-26,Uber Direct,Bogotá,5,20
+2026-08-26,Uber Direct,Ciudad de México,2,8
+2026-08-26,Uber Direct,Guayaquil,1,4
+2026-08-26,Uber Direct,Lima,2,8
+2026-08-26,Uber Direct,Medellín,1,4
+2026-08-26,Uber Direct,Quito,3,12
+2026-08-27,DiDi,Bogotá,9,34
+2026-08-27,DiDi,Ciudad de México,2,8
+2026-08-27,DiDi,Quito,2,8
+2026-08-27,Flota propia,Bogotá,3,12
+2026-08-27,Flota propia,Ciudad de México,2,8
+2026-08-27,Flota propia,Guayaquil,1,4
+2026-08-27,Flota propia,Lima,1,2
+2026-08-27,Flota propia,Medellín,2,8
+2026-08-27,Flota propia,Quito,1,4
+2026-08-27,Pedidos Ya,Bogotá,1,4
+2026-08-27,Pedidos Ya,Ciudad de México,2,8
+2026-08-27,Pedidos Ya,Guayaquil,1,4
+2026-08-27,Pedidos Ya,Lima,2,8
+2026-08-27,Pedidos Ya,Medellín,1,4
+2026-08-27,Pedidos Ya,Quito,1,4
+2026-08-27,Rappi,Bogotá,8,32
+2026-08-27,Rappi,Ciudad de México,5,20
+2026-08-27,Rappi,Guayaquil,2,8
+2026-08-27,Rappi,Lima,2,8
+2026-08-27,Rappi,Quito,2,8
+2026-08-27,Uber Direct,Bogotá,3,12
+2026-08-27,Uber Direct,Ciudad de México,5,20
+2026-08-27,Uber Direct,Guayaquil,1,4
+2026-08-27,Uber Direct,Lima,1,4
+2026-08-27,Uber Direct,Medellín,2,8
+2026-08-27,Uber Direct,Quito,2,8
+2026-08-28,DiDi,Bogotá,9,36
+2026-08-28,DiDi,Guayaquil,1,4
+2026-08-28,DiDi,Lima,1,4
+2026-08-28,DiDi,Medellín,2,8
+2026-08-28,Flota propia,Bogotá,1,4
+2026-08-28,Flota propia,Ciudad de México,2,8
+2026-08-28,Flota propia,Lima,1,4
+2026-08-28,Flota propia,Medellín,3,12
+2026-08-28,Pedidos Ya,Bogotá,4,16
+2026-08-28,Pedidos Ya,Ciudad de México,2,8
+2026-08-28,Pedidos Ya,Lima,2,8
+2026-08-28,Pedidos Ya,Medellín,1,4
+2026-08-28,Pedidos Ya,Quito,2,8
+2026-08-28,Rappi,Bogotá,8,30
+2026-08-28,Rappi,Ciudad de México,4,16
+2026-08-28,Rappi,Guayaquil,3,12
+2026-08-28,Rappi,Medellín,3,12
+2026-08-28,Rappi,Quito,1,4
+2026-08-28,Uber Direct,Ciudad de México,6,24
+2026-08-28,Uber Direct,Guayaquil,2,8
+2026-08-28,Uber Direct,Lima,2,8
+2026-08-28,Uber Direct,Medellín,2,8
+2026-08-28,Uber Direct,Quito,2,8
+2026-08-29,DiDi,Bogotá,7,28
+2026-08-29,DiDi,Guayaquil,1,4
+2026-08-29,DiDi,Medellín,5,20
+2026-08-29,DiDi,Quito,1,4
+2026-08-29,Flota propia,Bogotá,4,16
+2026-08-29,Flota propia,Ciudad de México,2,8
+2026-08-29,Flota propia,Guayaquil,1,4
+2026-08-29,Flota propia,Lima,1,4
+2026-08-29,Flota propia,Medellín,1,4
+2026-08-29,Flota propia,Quito,1,4
+2026-08-29,Pedidos Ya,Bogotá,2,8
+2026-08-29,Pedidos Ya,Ciudad de México,6,24
+2026-08-29,Pedidos Ya,Guayaquil,2,8
+2026-08-29,Rappi,Bogotá,4,16
+2026-08-29,Rappi,Ciudad de México,2,8
+2026-08-29,Rappi,Guayaquil,2,8
+2026-08-29,Rappi,Lima,1,4
+2026-08-29,Rappi,Medellín,1,4
+2026-08-29,Rappi,Quito,1,4
+2026-08-29,Uber Direct,Bogotá,6,24
+2026-08-29,Uber Direct,Ciudad de México,4,16
+2026-08-29,Uber Direct,Guayaquil,2,8
+2026-08-29,Uber Direct,Lima,2,6
+2026-08-29,Uber Direct,Medellín,2,8
+2026-08-29,Uber Direct,Quito,1,4
+2026-08-30,DiDi,Bogotá,6,24
+2026-08-30,DiDi,Guayaquil,1,4
+2026-08-30,DiDi,Lima,2,8
+2026-08-30,DiDi,Medellín,2,8
+2026-08-30,DiDi,Quito,2,8
+2026-08-30,Flota propia,Bogotá,2,8
+2026-08-30,Flota propia,Ciudad de México,1,4
+2026-08-30,Flota propia,Guayaquil,1,4
+2026-08-30,Flota propia,Lima,1,4
+2026-08-30,Pedidos Ya,Bogotá,3,12
+2026-08-30,Pedidos Ya,Ciudad de México,2,8
+2026-08-30,Pedidos Ya,Lima,1,4
+2026-08-30,Rappi,Bogotá,5,20
+2026-08-30,Rappi,Ciudad de México,5,20
+2026-08-30,Rappi,Lima,4,16
+2026-08-30,Rappi,Medellín,5,20
+2026-08-30,Uber Direct,Bogotá,2,8
+2026-08-30,Uber Direct,Ciudad de México,3,12
+2026-08-30,Uber Direct,Guayaquil,3,12
+2026-08-30,Uber Direct,Lima,3,12
+2026-08-30,Uber Direct,Medellín,2,8
+2026-08-30,Uber Direct,Quito,2,8
+2026-08-31,DiDi,Bogotá,6,24
+2026-08-31,DiDi,Ciudad de México,1,4
+2026-08-31,DiDi,Guayaquil,3,12
+2026-08-31,DiDi,Lima,1,4
+2026-08-31,DiDi,Medellín,1,4
+2026-08-31,DiDi,Quito,2,8
+2026-08-31,Flota propia,Bogotá,3,12
+2026-08-31,Flota propia,Guayaquil,1,4
+2026-08-31,Flota propia,Lima,1,4
+2026-08-31,Flota propia,Medellín,1,4
+2026-08-31,Pedidos Ya,Bogotá,1,4
+2026-08-31,Pedidos Ya,Ciudad de México,5,20
+2026-08-31,Pedidos Ya,Guayaquil,1,4
+2026-08-31,Pedidos Ya,Lima,1,4
+2026-08-31,Pedidos Ya,Quito,1,4
+2026-08-31,Rappi,Bogotá,1,4
+2026-08-31,Rappi,Ciudad de México,5,20
+2026-08-31,Rappi,Guayaquil,2,8
+2026-08-31,Rappi,Medellín,4,16
+2026-08-31,Rappi,Quito,1,4
+2026-08-31,Uber Direct,Bogotá,3,12
+2026-08-31,Uber Direct,Ciudad de México,7,28
+2026-08-31,Uber Direct,Guayaquil,2,8
+2026-08-31,Uber Direct,Lima,2,8
+2026-08-31,Uber Direct,Medellín,3,12
+2026-08-31,Uber Direct,Quito,2,8
+2026-09-01,DiDi,Bogotá,5,20
+2026-09-01,DiDi,Ciudad de México,5,20
+2026-09-01,DiDi,Guayaquil,4,16
+2026-09-01,DiDi,Lima,1,2
+2026-09-01,DiDi,Medellín,3,12
+2026-09-01,Flota propia,Bogotá,4,16
+2026-09-01,Flota propia,Ciudad de México,1,4
+2026-09-01,Flota propia,Guayaquil,1,4
+2026-09-01,Flota propia,Medellín,1,4
+2026-09-01,Flota propia,Quito,2,8
+2026-09-01,Pedidos Ya,Bogotá,5,20
+2026-09-01,Pedidos Ya,Ciudad de México,6,24
+2026-09-01,Pedidos Ya,Lima,3,12
+2026-09-01,Rappi,Bogotá,5,18
+2026-09-01,Rappi,Ciudad de México,5,20
+2026-09-01,Rappi,Guayaquil,1,4
+2026-09-01,Rappi,Lima,3,12
+2026-09-01,Rappi,Medellín,2,8
+2026-09-01,Uber Direct,Bogotá,2,8
+2026-09-01,Uber Direct,Ciudad de México,3,12
+2026-09-01,Uber Direct,Guayaquil,1,4
+2026-09-01,Uber Direct,Lima,2,8
+2026-09-01,Uber Direct,Medellín,7,28
+2026-09-01,Uber Direct,Quito,2,8
+2026-09-02,DiDi,Bogotá,3,12
+2026-09-02,DiDi,Ciudad de México,1,4
+2026-09-02,DiDi,Guayaquil,1,4
+2026-09-02,DiDi,Medellín,1,4
+2026-09-02,Flota propia,Bogotá,3,12
+2026-09-02,Flota propia,Ciudad de México,3,12
+2026-09-02,Flota propia,Guayaquil,1,4
+2026-09-02,Flota propia,Medellín,2,8
+2026-09-02,Pedidos Ya,Bogotá,1,4
+2026-09-02,Pedidos Ya,Ciudad de México,2,8
+2026-09-02,Pedidos Ya,Guayaquil,2,8
+2026-09-02,Pedidos Ya,Medellín,1,4
+2026-09-02,Rappi,Bogotá,4,16
+2026-09-02,Rappi,Ciudad de México,3,12
+2026-09-02,Rappi,Guayaquil,1,4
+2026-09-02,Rappi,Medellín,1,4
+2026-09-02,Rappi,Quito,1,4
+2026-09-02,Uber Direct,Bogotá,7,28
+2026-09-02,Uber Direct,Ciudad de México,4,16
+2026-09-02,Uber Direct,Lima,1,4
+2026-09-02,Uber Direct,Medellín,1,4
+2026-09-02,Uber Direct,Quito,1,4
+2026-09-03,DiDi,Bogotá,5,20
+2026-09-03,DiDi,Ciudad de México,3,12
+2026-09-03,DiDi,Guayaquil,3,12
+2026-09-03,DiDi,Lima,1,4
+2026-09-03,DiDi,Medellín,1,4
+2026-09-03,DiDi,Quito,2,8
+2026-09-03,Flota propia,Bogotá,5,20
+2026-09-03,Flota propia,Ciudad de México,2,8
+2026-09-03,Flota propia,Lima,1,4
+2026-09-03,Flota propia,Medellín,3,12
+2026-09-03,Pedidos Ya,Bogotá,4,16
+2026-09-03,Pedidos Ya,Ciudad de México,5,20
+2026-09-03,Rappi,Bogotá,8,32
+2026-09-03,Rappi,Ciudad de México,4,16
+2026-09-03,Rappi,Quito,2,8
+2026-09-03,Uber Direct,Bogotá,3,12
+2026-09-03,Uber Direct,Ciudad de México,1,4
+2026-09-03,Uber Direct,Guayaquil,5,20
+2026-09-03,Uber Direct,Medellín,1,4
+2026-09-03,Uber Direct,Quito,4,16
+2026-09-04,DiDi,Bogotá,12,48
+2026-09-04,DiDi,Ciudad de México,1,2
+2026-09-04,DiDi,Guayaquil,2,8
+2026-09-04,DiDi,Quito,2,8
+2026-09-04,Flota propia,Bogotá,4,14
+2026-09-04,Flota propia,Ciudad de México,2,8
+2026-09-04,Flota propia,Guayaquil,1,4
+2026-09-04,Flota propia,Medellín,1,4
+2026-09-04,Pedidos Ya,Bogotá,2,8
+2026-09-04,Pedidos Ya,Ciudad de México,5,20
+2026-09-04,Pedidos Ya,Guayaquil,1,4
+2026-09-04,Pedidos Ya,Medellín,2,8
+2026-09-04,Pedidos Ya,Quito,1,4
+2026-09-04,Rappi,Bogotá,6,24
+2026-09-04,Rappi,Ciudad de México,7,28
+2026-09-04,Rappi,Guayaquil,5,20
+2026-09-04,Rappi,Lima,1,4
+2026-09-04,Rappi,Medellín,4,16
+2026-09-04,Uber Direct,Bogotá,4,16
+2026-09-04,Uber Direct,Ciudad de México,5,20
+2026-09-04,Uber Direct,Guayaquil,3,12
+2026-09-04,Uber Direct,Lima,1,4
+2026-09-04,Uber Direct,Medellín,1,4
+2026-09-04,Uber Direct,Quito,2,8
+2026-09-05,DiDi,Bogotá,5,18
+2026-09-05,DiDi,Ciudad de México,2,8
+2026-09-05,DiDi,Guayaquil,2,8
+2026-09-05,DiDi,Medellín,3,12
+2026-09-05,Flota propia,Bogotá,5,20
+2026-09-05,Flota propia,Ciudad de México,5,20
+2026-09-05,Flota propia,Guayaquil,1,4
+2026-09-05,Flota propia,Medellín,1,4
+2026-09-05,Flota propia,Quito,1,4
+2026-09-05,Pedidos Ya,Bogotá,1,4
+2026-09-05,Pedidos Ya,Ciudad de México,2,8
+2026-09-05,Pedidos Ya,Guayaquil,1,4
+2026-09-05,Pedidos Ya,Lima,1,4
+2026-09-05,Pedidos Ya,Medellín,3,12
+2026-09-05,Pedidos Ya,Quito,1,4
+2026-09-05,Rappi,Bogotá,7,26
+2026-09-05,Rappi,Ciudad de México,2,6
+2026-09-05,Rappi,Medellín,4,16
+2026-09-05,Rappi,Quito,2,8
+2026-09-05,Uber Direct,Bogotá,3,12
+2026-09-05,Uber Direct,Ciudad de México,5,20
+2026-09-05,Uber Direct,Guayaquil,3,12
+2026-09-05,Uber Direct,Lima,3,12
+2026-09-05,Uber Direct,Medellín,3,12
+2026-09-05,Uber Direct,Quito,2,8
+2026-09-06,DiDi,Bogotá,7,28
+2026-09-06,DiDi,Ciudad de México,3,12
+2026-09-06,DiDi,Lima,2,8
+2026-09-06,DiDi,Medellín,2,8
+2026-09-06,DiDi,Quito,3,12
+2026-09-06,Flota propia,Bogotá,1,4
+2026-09-06,Flota propia,Guayaquil,2,8
+2026-09-06,Flota propia,Lima,2,8
+2026-09-06,Flota propia,Medellín,1,4
+2026-09-06,Flota propia,Quito,1,4
+2026-09-06,Pedidos Ya,Ciudad de México,2,8
+2026-09-06,Pedidos Ya,Guayaquil,2,8
+2026-09-06,Pedidos Ya,Lima,1,4
+2026-09-06,Pedidos Ya,Medellín,1,4
+2026-09-06,Pedidos Ya,Quito,1,4
+2026-09-06,Rappi,Bogotá,4,16
+2026-09-06,Rappi,Ciudad de México,4,16
+2026-09-06,Rappi,Guayaquil,2,8
+2026-09-06,Rappi,Lima,2,8
+2026-09-06,Rappi,Medellín,2,8
+2026-09-06,Rappi,Quito,1,4
+2026-09-06,Uber Direct,Bogotá,4,16
+2026-09-06,Uber Direct,Ciudad de México,5,20
+2026-09-06,Uber Direct,Guayaquil,2,8
+2026-09-06,Uber Direct,Medellín,1,4
+2026-09-07,DiDi,Bogotá,6,24
+2026-09-07,DiDi,Ciudad de México,8,32
+2026-09-07,DiDi,Guayaquil,2,8
+2026-09-07,DiDi,Lima,2,8
+2026-09-07,DiDi,Medellín,4,16
+2026-09-07,DiDi,Quito,1,4
+2026-09-07,Flota propia,Bogotá,1,4
+2026-09-07,Flota propia,Ciudad de México,2,8
+2026-09-07,Flota propia,Medellín,1,4
+2026-09-07,Flota propia,Quito,2,8
+2026-09-07,Pedidos Ya,Bogotá,5,20
+2026-09-07,Pedidos Ya,Ciudad de México,1,4
+2026-09-07,Pedidos Ya,Guayaquil,3,12
+2026-09-07,Pedidos Ya,Lima,1,4
+2026-09-07,Pedidos Ya,Medellín,1,4
+2026-09-07,Rappi,Bogotá,3,12
+2026-09-07,Rappi,Ciudad de México,4,14
+2026-09-07,Rappi,Guayaquil,3,12
+2026-09-07,Rappi,Lima,1,4
+2026-09-07,Rappi,Medellín,4,16
+2026-09-07,Rappi,Quito,2,6
+2026-09-07,Uber Direct,Bogotá,2,8
+2026-09-07,Uber Direct,Ciudad de México,2,8
+2026-09-07,Uber Direct,Guayaquil,1,4
+2026-09-07,Uber Direct,Lima,3,10
+2026-09-07,Uber Direct,Medellín,4,16
+2026-09-08,DiDi,Bogotá,10,38
+2026-09-08,DiDi,Ciudad de México,3,12
+2026-09-08,DiDi,Guayaquil,1,4
+2026-09-08,DiDi,Lima,1,4
+2026-09-08,DiDi,Medellín,3,12
+2026-09-08,Flota propia,Bogotá,2,8
+2026-09-08,Flota propia,Ciudad de México,2,8
+2026-09-08,Flota propia,Guayaquil,1,4
+2026-09-08,Flota propia,Lima,2,8
+2026-09-08,Flota propia,Quito,2,8
+2026-09-08,Pedidos Ya,Bogotá,2,8
+2026-09-08,Pedidos Ya,Ciudad de México,3,12
+2026-09-08,Pedidos Ya,Guayaquil,1,4
+2026-09-08,Pedidos Ya,Lima,1,4
+2026-09-08,Pedidos Ya,Quito,2,8
+2026-09-08,Rappi,Bogotá,5,20
+2026-09-08,Rappi,Ciudad de México,3,12
+2026-09-08,Rappi,Medellín,3,12
+2026-09-08,Rappi,Quito,2,8
+2026-09-08,Uber Direct,Bogotá,3,12
+2026-09-08,Uber Direct,Ciudad de México,8,30
+2026-09-08,Uber Direct,Guayaquil,1,4
+2026-09-08,Uber Direct,Lima,1,4
+2026-09-08,Uber Direct,Medellín,3,12
+2026-09-08,Uber Direct,Quito,3,12
+2026-09-09,DiDi,Bogotá,5,20
+2026-09-09,DiDi,Ciudad de México,7,28
+2026-09-09,DiDi,Guayaquil,1,4
+2026-09-09,DiDi,Quito,2,6
+2026-09-09,Flota propia,Bogotá,1,4
+2026-09-09,Flota propia,Ciudad de México,2,8
+2026-09-09,Flota propia,Lima,1,4
+2026-09-09,Flota propia,Quito,1,4
+2026-09-09,Pedidos Ya,Bogotá,4,16
+2026-09-09,Pedidos Ya,Ciudad de México,3,12
+2026-09-09,Pedidos Ya,Lima,2,8
+2026-09-09,Pedidos Ya,Medellín,2,8
+2026-09-09,Pedidos Ya,Quito,2,6
+2026-09-09,Rappi,Bogotá,4,16
+2026-09-09,Rappi,Ciudad de México,4,16
+2026-09-09,Rappi,Guayaquil,3,12
+2026-09-09,Rappi,Lima,2,8
+2026-09-09,Rappi,Medellín,1,4
+2026-09-09,Rappi,Quito,2,8
+2026-09-09,Uber Direct,Bogotá,3,12
+2026-09-09,Uber Direct,Ciudad de México,2,8
+2026-09-09,Uber Direct,Guayaquil,3,12
+2026-09-09,Uber Direct,Medellín,5,20
+2026-09-09,Uber Direct,Quito,1,4
+2026-09-10,DiDi,Bogotá,6,24
+2026-09-10,DiDi,Ciudad de México,2,8
+2026-09-10,DiDi,Guayaquil,1,4
+2026-09-10,DiDi,Lima,1,4
+2026-09-10,DiDi,Medellín,1,4
+2026-09-10,Flota propia,Bogotá,2,8
+2026-09-10,Flota propia,Ciudad de México,2,8
+2026-09-10,Flota propia,Guayaquil,1,4
+2026-09-10,Flota propia,Medellín,2,8
+2026-09-10,Pedidos Ya,Bogotá,1,4
+2026-09-10,Pedidos Ya,Ciudad de México,3,12
+2026-09-10,Pedidos Ya,Guayaquil,1,4
+2026-09-10,Pedidos Ya,Lima,2,8
+2026-09-10,Pedidos Ya,Medellín,1,4
+2026-09-10,Pedidos Ya,Quito,1,4
+2026-09-10,Rappi,Bogotá,4,16
+2026-09-10,Rappi,Ciudad de México,4,16
+2026-09-10,Rappi,Lima,3,12
+2026-09-10,Rappi,Medellín,3,12
+2026-09-10,Rappi,Quito,2,8
+2026-09-10,Uber Direct,Bogotá,2,8
+2026-09-10,Uber Direct,Ciudad de México,2,8
+2026-09-10,Uber Direct,Guayaquil,2,8
+2026-09-10,Uber Direct,Lima,1,4
+2026-09-10,Uber Direct,Medellín,5,20
+2026-09-11,DiDi,Bogotá,7,28
+2026-09-11,DiDi,Ciudad de México,2,8
+2026-09-11,DiDi,Lima,3,12
+2026-09-11,DiDi,Medellín,2,8
+2026-09-11,DiDi,Quito,1,4
+2026-09-11,Flota propia,Bogotá,3,12
+2026-09-11,Flota propia,Ciudad de México,5,20
+2026-09-11,Flota propia,Lima,1,4
+2026-09-11,Pedidos Ya,Bogotá,3,12
+2026-09-11,Pedidos Ya,Ciudad de México,1,4
+2026-09-11,Pedidos Ya,Guayaquil,1,4
+2026-09-11,Pedidos Ya,Lima,1,4
+2026-09-11,Pedidos Ya,Medellín,1,2
+2026-09-11,Rappi,Bogotá,1,4
+2026-09-11,Rappi,Ciudad de México,5,20
+2026-09-11,Rappi,Guayaquil,2,8
+2026-09-11,Rappi,Lima,5,20
+2026-09-11,Rappi,Medellín,2,8
+2026-09-11,Uber Direct,Bogotá,5,20
+2026-09-11,Uber Direct,Ciudad de México,2,8
+2026-09-11,Uber Direct,Quito,2,8
+2026-09-12,DiDi,Bogotá,3,12
+2026-09-12,DiDi,Ciudad de México,2,8
+2026-09-12,DiDi,Guayaquil,4,16
+2026-09-12,DiDi,Lima,1,4
+2026-09-12,DiDi,Medellín,3,12
+2026-09-12,DiDi,Quito,3,12
+2026-09-12,Flota propia,Ciudad de México,3,12
+2026-09-12,Flota propia,Guayaquil,1,4
+2026-09-12,Flota propia,Lima,2,8
+2026-09-12,Flota propia,Medellín,2,8
+2026-09-12,Flota propia,Quito,2,8
+2026-09-12,Pedidos Ya,Bogotá,7,28
+2026-09-12,Pedidos Ya,Ciudad de México,4,16
+2026-09-12,Pedidos Ya,Guayaquil,1,4
+2026-09-12,Pedidos Ya,Lima,1,4
+2026-09-12,Rappi,Bogotá,7,28
+2026-09-12,Rappi,Ciudad de México,1,4
+2026-09-12,Rappi,Guayaquil,2,8
+2026-09-12,Rappi,Lima,1,4
+2026-09-12,Rappi,Medellín,3,12
+2026-09-12,Rappi,Quito,1,4
+2026-09-12,Uber Direct,Bogotá,3,12
+2026-09-12,Uber Direct,Ciudad de México,3,12
+2026-09-12,Uber Direct,Guayaquil,1,4
+2026-09-12,Uber Direct,Lima,3,12
+2026-09-12,Uber Direct,Quito,1,4
+2026-09-13,DiDi,Bogotá,7,26
+2026-09-13,DiDi,Ciudad de México,3,12
+2026-09-13,DiDi,Medellín,1,4
+2026-09-13,DiDi,Quito,1,4
+2026-09-13,Flota propia,Ciudad de México,3,12
+2026-09-13,Flota propia,Guayaquil,1,4
+2026-09-13,Flota propia,Medellín,1,4
+2026-09-13,Pedidos Ya,Bogotá,2,8
+2026-09-13,Pedidos Ya,Ciudad de México,1,4
+2026-09-13,Pedidos Ya,Guayaquil,1,4
+2026-09-13,Pedidos Ya,Lima,1,4
+2026-09-13,Pedidos Ya,Medellín,1,4
+2026-09-13,Pedidos Ya,Quito,3,12
+2026-09-13,Rappi,Bogotá,4,16
+2026-09-13,Rappi,Ciudad de México,10,40
+2026-09-13,Rappi,Lima,2,8
+2026-09-13,Rappi,Medellín,3,12
+2026-09-13,Rappi,Quito,1,4
+2026-09-13,Uber Direct,Bogotá,7,28
+2026-09-13,Uber Direct,Ciudad de México,8,32
+2026-09-13,Uber Direct,Guayaquil,3,10
+2026-09-13,Uber Direct,Medellín,5,20
+2026-09-13,Uber Direct,Quito,1,4
+2026-09-14,DiDi,Bogotá,4,16
+2026-09-14,DiDi,Ciudad de México,4,16
+2026-09-14,DiDi,Guayaquil,1,4
+2026-09-14,DiDi,Lima,2,8
+2026-09-14,DiDi,Medellín,2,8
+2026-09-14,Flota propia,Bogotá,2,8
+2026-09-14,Flota propia,Ciudad de México,3,12
+2026-09-14,Flota propia,Guayaquil,2,8
+2026-09-14,Flota propia,Lima,1,4
+2026-09-14,Flota propia,Medellín,3,12
+2026-09-14,Flota propia,Quito,1,4
+2026-09-14,Pedidos Ya,Ciudad de México,1,4
+2026-09-14,Pedidos Ya,Guayaquil,3,12
+2026-09-14,Pedidos Ya,Lima,1,4
+2026-09-14,Pedidos Ya,Medellín,1,4
+2026-09-14,Rappi,Bogotá,6,24
+2026-09-14,Rappi,Ciudad de México,4,16
+2026-09-14,Rappi,Guayaquil,3,12
+2026-09-14,Rappi,Lima,2,8
+2026-09-14,Rappi,Medellín,1,4
+2026-09-14,Rappi,Quito,1,4
+2026-09-14,Uber Direct,Bogotá,3,12
+2026-09-14,Uber Direct,Ciudad de México,2,8
+2026-09-14,Uber Direct,Lima,1,2
+2026-09-14,Uber Direct,Medellín,1,4
+2026-09-14,Uber Direct,Quito,2,8
+2026-09-15,DiDi,Bogotá,4,16
+2026-09-15,DiDi,Ciudad de México,1,4
+2026-09-15,DiDi,Guayaquil,2,8
+2026-09-15,DiDi,Lima,2,8
+2026-09-15,DiDi,Medellín,1,4
+2026-09-15,Flota propia,Ciudad de México,2,8
+2026-09-15,Flota propia,Guayaquil,1,4
+2026-09-15,Flota propia,Lima,1,4
+2026-09-15,Flota propia,Medellín,1,4
+2026-09-15,Pedidos Ya,Bogotá,1,4
+2026-09-15,Pedidos Ya,Guayaquil,1,4
+2026-09-15,Pedidos Ya,Lima,1,4
+2026-09-15,Pedidos Ya,Medellín,2,8
+2026-09-15,Rappi,Bogotá,6,24
+2026-09-15,Rappi,Ciudad de México,8,32
+2026-09-15,Rappi,Guayaquil,2,8
+2026-09-15,Rappi,Medellín,2,8
+2026-09-15,Rappi,Quito,3,12
+2026-09-15,Uber Direct,Bogotá,3,12
+2026-09-15,Uber Direct,Ciudad de México,7,28
+2026-09-15,Uber Direct,Guayaquil,1,4
+2026-09-15,Uber Direct,Lima,3,10
+2026-09-15,Uber Direct,Medellín,3,12
+2026-09-16,DiDi,Bogotá,3,12
+2026-09-16,DiDi,Ciudad de México,2,8
+2026-09-16,DiDi,Guayaquil,2,8
+2026-09-16,DiDi,Lima,1,4
+2026-09-16,DiDi,Medellín,2,8
+2026-09-16,DiDi,Quito,3,12
+2026-09-16,Flota propia,Bogotá,3,12
+2026-09-16,Flota propia,Ciudad de México,4,16
+2026-09-16,Flota propia,Medellín,3,12
+2026-09-16,Flota propia,Quito,2,8
+2026-09-16,Pedidos Ya,Bogotá,3,12
+2026-09-16,Pedidos Ya,Ciudad de México,5,18
+2026-09-16,Pedidos Ya,Guayaquil,1,4
+2026-09-16,Pedidos Ya,Lima,1,4
+2026-09-16,Pedidos Ya,Medellín,1,4
+2026-09-16,Pedidos Ya,Quito,1,4
+2026-09-16,Rappi,Bogotá,3,12
+2026-09-16,Rappi,Ciudad de México,3,10
+2026-09-16,Rappi,Guayaquil,3,12
+2026-09-16,Rappi,Lima,4,16
+2026-09-16,Uber Direct,Bogotá,2,8
+2026-09-16,Uber Direct,Ciudad de México,6,24
+2026-09-16,Uber Direct,Guayaquil,5,20
+2026-09-16,Uber Direct,Medellín,1,4
+2026-09-16,Uber Direct,Quito,2,8
+2026-09-17,DiDi,Bogotá,4,16
+2026-09-17,DiDi,Ciudad de México,3,12
+2026-09-17,DiDi,Lima,1,4
+2026-09-17,DiDi,Quito,2,8
+2026-09-17,Flota propia,Ciudad de México,1,4
+2026-09-17,Flota propia,Guayaquil,1,4
+2026-09-17,Flota propia,Lima,3,12
+2026-09-17,Flota propia,Quito,1,4
+2026-09-17,Pedidos Ya,Bogotá,1,4
+2026-09-17,Pedidos Ya,Ciudad de México,2,8
+2026-09-17,Pedidos Ya,Guayaquil,1,4
+2026-09-17,Pedidos Ya,Quito,1,4
+2026-09-17,Rappi,Bogotá,5,20
+2026-09-17,Rappi,Ciudad de México,6,24
+2026-09-17,Rappi,Lima,3,12
+2026-09-17,Rappi,Medellín,3,12
+2026-09-17,Rappi,Quito,4,16
+2026-09-17,Uber Direct,Ciudad de México,4,16
+2026-09-17,Uber Direct,Guayaquil,2,8
+2026-09-17,Uber Direct,Lima,3,12
+2026-09-17,Uber Direct,Medellín,1,4
+2026-09-17,Uber Direct,Quito,1,4
+2026-09-18,DiDi,Bogotá,3,12
+2026-09-18,DiDi,Ciudad de México,6,24
+2026-09-18,DiDi,Guayaquil,2,8
+2026-09-18,DiDi,Lima,2,8
+2026-09-18,DiDi,Medellín,2,8
+2026-09-18,DiDi,Quito,1,4
+2026-09-18,Flota propia,Bogotá,2,8
+2026-09-18,Flota propia,Guayaquil,1,4
+2026-09-18,Flota propia,Lima,2,8
+2026-09-18,Flota propia,Medellín,1,4
+2026-09-18,Flota propia,Quito,1,4
+2026-09-18,Pedidos Ya,Bogotá,3,12
+2026-09-18,Pedidos Ya,Ciudad de México,4,16
+2026-09-18,Pedidos Ya,Guayaquil,1,4
+2026-09-18,Pedidos Ya,Medellín,1,4
+2026-09-18,Pedidos Ya,Quito,1,4
+2026-09-18,Rappi,Bogotá,4,16
+2026-09-18,Rappi,Ciudad de México,7,28
+2026-09-18,Rappi,Guayaquil,2,8
+2026-09-18,Rappi,Lima,1,4
+2026-09-18,Rappi,Medellín,2,8
+2026-09-18,Rappi,Quito,2,8
+2026-09-18,Uber Direct,Bogotá,2,8
+2026-09-18,Uber Direct,Ciudad de México,4,16
+2026-09-18,Uber Direct,Guayaquil,1,4
+2026-09-18,Uber Direct,Medellín,5,20
+2026-09-18,Uber Direct,Quito,2,8
+2026-09-19,DiDi,Bogotá,8,32
+2026-09-19,DiDi,Ciudad de México,2,8
+2026-09-19,DiDi,Lima,1,4
+2026-09-19,DiDi,Medellín,7,28
+2026-09-19,DiDi,Quito,1,4
+2026-09-19,Flota propia,Bogotá,2,8
+2026-09-19,Flota propia,Ciudad de México,2,8
+2026-09-19,Flota propia,Lima,2,8
+2026-09-19,Flota propia,Medellín,1,4
+2026-09-19,Pedidos Ya,Bogotá,1,4
+2026-09-19,Pedidos Ya,Ciudad de México,2,8
+2026-09-19,Pedidos Ya,Guayaquil,2,8
+2026-09-19,Pedidos Ya,Lima,3,12
+2026-09-19,Rappi,Bogotá,3,12
+2026-09-19,Rappi,Ciudad de México,7,28
+2026-09-19,Rappi,Guayaquil,4,16
+2026-09-19,Rappi,Lima,1,4
+2026-09-19,Rappi,Medellín,3,12
+2026-09-19,Rappi,Quito,1,4
+2026-09-19,Uber Direct,Bogotá,3,12
+2026-09-19,Uber Direct,Ciudad de México,1,4
+2026-09-19,Uber Direct,Guayaquil,3,12
+2026-09-19,Uber Direct,Lima,1,4
+2026-09-19,Uber Direct,Quito,1,4
+2026-09-20,DiDi,Bogotá,2,8
+2026-09-20,DiDi,Ciudad de México,3,12
+2026-09-20,DiDi,Guayaquil,3,12
+2026-09-20,DiDi,Lima,2,8
+2026-09-20,DiDi,Medellín,2,8
+2026-09-20,Flota propia,Bogotá,1,4
+2026-09-20,Flota propia,Ciudad de México,3,12
+2026-09-20,Flota propia,Guayaquil,1,4
+2026-09-20,Flota propia,Lima,1,4
+2026-09-20,Flota propia,Medellín,1,2
+2026-09-20,Pedidos Ya,Bogotá,2,8
+2026-09-20,Pedidos Ya,Ciudad de México,2,8
+2026-09-20,Pedidos Ya,Lima,1,4
+2026-09-20,Pedidos Ya,Medellín,2,8
+2026-09-20,Pedidos Ya,Quito,2,8
+2026-09-20,Rappi,Ciudad de México,5,20
+2026-09-20,Rappi,Guayaquil,3,12
+2026-09-20,Rappi,Lima,1,4
+2026-09-20,Rappi,Medellín,1,4
+2026-09-20,Uber Direct,Bogotá,5,20
+2026-09-20,Uber Direct,Ciudad de México,5,20
+2026-09-20,Uber Direct,Guayaquil,3,12
+2026-09-20,Uber Direct,Lima,1,4
+2026-09-20,Uber Direct,Medellín,5,20
+2026-09-20,Uber Direct,Quito,2,8
+2026-09-21,DiDi,Bogotá,6,24
+2026-09-21,DiDi,Ciudad de México,6,24
+2026-09-21,DiDi,Guayaquil,1,4
+2026-09-21,DiDi,Lima,2,8
+2026-09-21,DiDi,Medellín,3,12
+2026-09-21,DiDi,Quito,1,4
+2026-09-21,Flota propia,Bogotá,2,8
+2026-09-21,Flota propia,Ciudad de México,3,12
+2026-09-21,Flota propia,Guayaquil,1,4
+2026-09-21,Flota propia,Lima,1,4
+2026-09-21,Flota propia,Medellín,1,4
+2026-09-21,Pedidos Ya,Bogotá,3,12
+2026-09-21,Pedidos Ya,Ciudad de México,3,12
+2026-09-21,Pedidos Ya,Guayaquil,1,4
+2026-09-21,Pedidos Ya,Lima,1,4
+2026-09-21,Pedidos Ya,Medellín,1,4
+2026-09-21,Rappi,Bogotá,6,24
+2026-09-21,Rappi,Ciudad de México,3,10
+2026-09-21,Rappi,Guayaquil,3,10
+2026-09-21,Rappi,Lima,3,12
+2026-09-21,Rappi,Medellín,2,8
+2026-09-21,Rappi,Quito,2,8
+2026-09-21,Uber Direct,Bogotá,5,20
+2026-09-21,Uber Direct,Ciudad de México,3,12
+2026-09-21,Uber Direct,Medellín,4,16
+2026-09-21,Uber Direct,Quito,3,12
+2026-09-22,DiDi,Bogotá,6,22
+2026-09-22,DiDi,Ciudad de México,1,4
+2026-09-22,DiDi,Guayaquil,4,16
+2026-09-22,DiDi,Lima,1,4
+2026-09-22,DiDi,Medellín,7,28
+2026-09-22,DiDi,Quito,2,8
+2026-09-22,Flota propia,Bogotá,4,16
+2026-09-22,Flota propia,Guayaquil,1,4
+2026-09-22,Flota propia,Medellín,4,16
+2026-09-22,Flota propia,Quito,1,4
+2026-09-22,Pedidos Ya,Bogotá,1,4
+2026-09-22,Pedidos Ya,Ciudad de México,1,4
+2026-09-22,Pedidos Ya,Guayaquil,4,16
+2026-09-22,Pedidos Ya,Lima,1,4
+2026-09-22,Pedidos Ya,Medellín,5,20
+2026-09-22,Pedidos Ya,Quito,1,4
+2026-09-22,Rappi,Bogotá,2,8
+2026-09-22,Rappi,Ciudad de México,2,8
+2026-09-22,Rappi,Guayaquil,2,8
+2026-09-22,Rappi,Lima,6,24
+2026-09-22,Rappi,Medellín,7,28
+2026-09-22,Uber Direct,Bogotá,8,32
+2026-09-22,Uber Direct,Ciudad de México,7,28
+2026-09-22,Uber Direct,Lima,2,8
+2026-09-22,Uber Direct,Medellín,3,10
+2026-09-22,Uber Direct,Quito,1,4
+2026-09-23,DiDi,Bogotá,5,20
+2026-09-23,DiDi,Ciudad de México,5,20
+2026-09-23,DiDi,Guayaquil,2,8
+2026-09-23,DiDi,Medellín,2,8
+2026-09-23,Flota propia,Guayaquil,2,8
+2026-09-23,Flota propia,Quito,1,4
+2026-09-23,Pedidos Ya,Bogotá,3,12
+2026-09-23,Pedidos Ya,Ciudad de México,3,12
+2026-09-23,Pedidos Ya,Guayaquil,4,16
+2026-09-23,Pedidos Ya,Lima,1,4
+2026-09-23,Pedidos Ya,Medellín,2,6
+2026-09-23,Pedidos Ya,Quito,3,12
+2026-09-23,Rappi,Bogotá,4,16
+2026-09-23,Rappi,Ciudad de México,3,12
+2026-09-23,Rappi,Guayaquil,2,8
+2026-09-23,Rappi,Lima,7,28
+2026-09-23,Rappi,Medellín,2,8
+2026-09-23,Rappi,Quito,1,4
+2026-09-23,Uber Direct,Bogotá,4,16
+2026-09-23,Uber Direct,Ciudad de México,1,4
+2026-09-23,Uber Direct,Guayaquil,3,12
+2026-09-23,Uber Direct,Lima,1,4
+2026-09-23,Uber Direct,Medellín,1,4
+2026-09-23,Uber Direct,Quito,1,4
+2026-09-24,DiDi,Bogotá,6,24
+2026-09-24,DiDi,Ciudad de México,1,4
+2026-09-24,DiDi,Guayaquil,1,4
+2026-09-24,DiDi,Lima,1,4
+2026-09-24,DiDi,Medellín,2,8
+2026-09-24,DiDi,Quito,2,8
+2026-09-24,Flota propia,Bogotá,2,8
+2026-09-24,Flota propia,Ciudad de México,2,8
+2026-09-24,Flota propia,Lima,1,4
+2026-09-24,Pedidos Ya,Bogotá,6,24
+2026-09-24,Pedidos Ya,Ciudad de México,4,16
+2026-09-24,Pedidos Ya,Guayaquil,2,8
+2026-09-24,Pedidos Ya,Medellín,1,4
+2026-09-24,Pedidos Ya,Quito,1,4
+2026-09-24,Rappi,Bogotá,1,4
+2026-09-24,Rappi,Ciudad de México,4,16
+2026-09-24,Rappi,Guayaquil,3,12
+2026-09-24,Rappi,Lima,3,12
+2026-09-24,Rappi,Medellín,1,4
+2026-09-24,Uber Direct,Bogotá,4,16
+2026-09-24,Uber Direct,Ciudad de México,5,20
+2026-09-24,Uber Direct,Guayaquil,5,20
+2026-09-24,Uber Direct,Lima,2,8
+2026-09-24,Uber Direct,Medellín,2,8
+2026-09-25,DiDi,Bogotá,4,16
+2026-09-25,DiDi,Ciudad de México,4,16
+2026-09-25,DiDi,Guayaquil,4,16
+2026-09-25,DiDi,Lima,2,8
+2026-09-25,DiDi,Medellín,2,8
+2026-09-25,DiDi,Quito,1,4
+2026-09-25,Flota propia,Bogotá,1,4
+2026-09-25,Flota propia,Ciudad de México,3,12
+2026-09-25,Flota propia,Lima,1,4
+2026-09-25,Flota propia,Medellín,1,4
+2026-09-25,Pedidos Ya,Bogotá,3,12
+2026-09-25,Pedidos Ya,Ciudad de México,1,4
+2026-09-25,Pedidos Ya,Guayaquil,3,12
+2026-09-25,Pedidos Ya,Medellín,2,8
+2026-09-25,Rappi,Bogotá,6,24
+2026-09-25,Rappi,Ciudad de México,2,8
+2026-09-25,Rappi,Guayaquil,2,8
+2026-09-25,Rappi,Lima,1,4
+2026-09-25,Rappi,Medellín,3,12
+2026-09-25,Rappi,Quito,2,6
+2026-09-25,Uber Direct,Bogotá,4,16
+2026-09-25,Uber Direct,Ciudad de México,2,8
+2026-09-25,Uber Direct,Guayaquil,2,8
+2026-09-25,Uber Direct,Lima,2,8
+2026-09-25,Uber Direct,Medellín,3,12
+2026-09-25,Uber Direct,Quito,2,8
+2026-09-26,DiDi,Bogotá,6,24
+2026-09-26,DiDi,Ciudad de México,4,16
+2026-09-26,DiDi,Guayaquil,1,4
+2026-09-26,DiDi,Medellín,2,8
+2026-09-26,DiDi,Quito,2,8
+2026-09-26,Flota propia,Ciudad de México,3,12
+2026-09-26,Flota propia,Guayaquil,1,4
+2026-09-26,Flota propia,Medellín,2,8
+2026-09-26,Flota propia,Quito,1,4
+2026-09-26,Pedidos Ya,Bogotá,2,8
+2026-09-26,Pedidos Ya,Ciudad de México,1,4
+2026-09-26,Pedidos Ya,Medellín,1,4
+2026-09-26,Rappi,Bogotá,4,16
+2026-09-26,Rappi,Ciudad de México,2,8
+2026-09-26,Rappi,Medellín,2,8
+2026-09-26,Uber Direct,Bogotá,4,16
+2026-09-26,Uber Direct,Ciudad de México,4,16
+2026-09-26,Uber Direct,Medellín,2,8
+2026-09-26,Uber Direct,Quito,2,8
+2026-09-27,DiDi,Bogotá,5,18
+2026-09-27,DiDi,Ciudad de México,1,4
+2026-09-27,DiDi,Lima,4,16
+2026-09-27,DiDi,Medellín,1,4
+2026-09-27,DiDi,Quito,1,4
+2026-09-27,Flota propia,Bogotá,5,20
+2026-09-27,Flota propia,Ciudad de México,1,4
+2026-09-27,Flota propia,Guayaquil,1,4
+2026-09-27,Flota propia,Lima,1,4
+2026-09-27,Flota propia,Quito,1,4
+2026-09-27,Pedidos Ya,Bogotá,1,4
+2026-09-27,Pedidos Ya,Ciudad de México,1,4
+2026-09-27,Pedidos Ya,Guayaquil,1,4
+2026-09-27,Pedidos Ya,Lima,1,4
+2026-09-27,Pedidos Ya,Medellín,2,8
+2026-09-27,Pedidos Ya,Quito,1,4
+2026-09-27,Rappi,Bogotá,1,2
+2026-09-27,Rappi,Ciudad de México,4,16
+2026-09-27,Rappi,Guayaquil,2,8
+2026-09-27,Rappi,Medellín,4,16
+2026-09-27,Rappi,Quito,1,4
+2026-09-27,Uber Direct,Bogotá,8,32
+2026-09-27,Uber Direct,Ciudad de México,4,16
+2026-09-27,Uber Direct,Guayaquil,3,12
+2026-09-27,Uber Direct,Lima,2,8
+2026-09-27,Uber Direct,Quito,2,8
+2026-09-28,DiDi,Bogotá,3,12
+2026-09-28,DiDi,Ciudad de México,4,16
+2026-09-28,DiDi,Guayaquil,4,12
+2026-09-28,DiDi,Lima,1,4
+2026-09-28,DiDi,Medellín,1,4
+2026-09-28,Flota propia,Bogotá,8,32
+2026-09-28,Flota propia,Ciudad de México,2,8
+2026-09-28,Flota propia,Lima,2,8
+2026-09-28,Flota propia,Medellín,1,4
+2026-09-28,Pedidos Ya,Bogotá,1,4
+2026-09-28,Pedidos Ya,Ciudad de México,1,4
+2026-09-28,Pedidos Ya,Quito,2,8
+2026-09-28,Rappi,Bogotá,6,24
+2026-09-28,Rappi,Ciudad de México,5,18
+2026-09-28,Rappi,Guayaquil,2,8
+2026-09-28,Rappi,Medellín,4,16
+2026-09-28,Uber Direct,Bogotá,7,28
+2026-09-28,Uber Direct,Ciudad de México,8,32
+2026-09-28,Uber Direct,Guayaquil,1,4
+2026-09-28,Uber Direct,Lima,1,4
+2026-09-28,Uber Direct,Medellín,6,24
+2026-09-28,Uber Direct,Quito,1,4
+2026-09-29,DiDi,Bogotá,4,16
+2026-09-29,DiDi,Ciudad de México,7,28
+2026-09-29,DiDi,Guayaquil,1,4
+2026-09-29,DiDi,Medellín,3,12
+2026-09-29,DiDi,Quito,1,4
+2026-09-29,Flota propia,Bogotá,2,8
+2026-09-29,Flota propia,Ciudad de México,2,8
+2026-09-29,Flota propia,Lima,1,4
+2026-09-29,Flota propia,Medellín,1,4
+2026-09-29,Flota propia,Quito,1,4
+2026-09-29,Pedidos Ya,Bogotá,2,8
+2026-09-29,Pedidos Ya,Ciudad de México,2,8
+2026-09-29,Pedidos Ya,Guayaquil,1,4
+2026-09-29,Pedidos Ya,Lima,4,16
+2026-09-29,Pedidos Ya,Quito,1,4
+2026-09-29,Rappi,Bogotá,6,24
+2026-09-29,Rappi,Ciudad de México,2,8
+2026-09-29,Rappi,Guayaquil,1,4
+2026-09-29,Rappi,Lima,4,16
+2026-09-29,Rappi,Medellín,3,12
+2026-09-29,Rappi,Quito,1,4
+2026-09-29,Uber Direct,Bogotá,8,32
+2026-09-29,Uber Direct,Ciudad de México,3,12
+2026-09-29,Uber Direct,Guayaquil,1,4
+2026-09-29,Uber Direct,Medellín,2,8
+2026-09-29,Uber Direct,Quito,1,4
+2026-09-30,DiDi,Bogotá,6,24
+2026-09-30,DiDi,Ciudad de México,4,14
+2026-09-30,DiDi,Guayaquil,4,16
+2026-09-30,DiDi,Medellín,3,12
+2026-09-30,Flota propia,Bogotá,3,12
+2026-09-30,Flota propia,Ciudad de México,1,4
+2026-09-30,Flota propia,Guayaquil,2,8
+2026-09-30,Flota propia,Medellín,2,8
+2026-09-30,Pedidos Ya,Bogotá,1,4
+2026-09-30,Pedidos Ya,Ciudad de México,3,12
+2026-09-30,Pedidos Ya,Lima,1,4
+2026-09-30,Pedidos Ya,Medellín,3,12
+2026-09-30,Pedidos Ya,Quito,1,4
+2026-09-30,Rappi,Bogotá,1,4
+2026-09-30,Rappi,Ciudad de México,3,12
+2026-09-30,Rappi,Lima,1,4
+2026-09-30,Rappi,Medellín,6,24
+2026-09-30,Uber Direct,Bogotá,6,22
+2026-09-30,Uber Direct,Ciudad de México,3,12
+2026-09-30,Uber Direct,Guayaquil,1,4
+2026-09-30,Uber Direct,Lima,2,8
+2026-09-30,Uber Direct,Medellín,3,12
+2026-09-30,Uber Direct,Quito,1,4
+2026-10-01,DiDi,Bogotá,7,28
+2026-10-01,DiDi,Ciudad de México,1,4
+2026-10-01,DiDi,Lima,1,4
+2026-10-01,DiDi,Medellín,1,4
+2026-10-01,DiDi,Quito,1,4
+2026-10-01,Flota propia,Bogotá,1,2
+2026-10-01,Flota propia,Lima,2,8
+2026-10-01,Flota propia,Medellín,1,4
+2026-10-01,Pedidos Ya,Bogotá,1,4
+2026-10-01,Pedidos Ya,Ciudad de México,4,16
+2026-10-01,Pedidos Ya,Guayaquil,1,4
+2026-10-01,Pedidos Ya,Lima,3,12
+2026-10-01,Rappi,Bogotá,2,8
+2026-10-01,Rappi,Ciudad de México,6,24
+2026-10-01,Rappi,Guayaquil,2,8
+2026-10-01,Rappi,Lima,1,4
+2026-10-01,Rappi,Medellín,4,16
+2026-10-01,Rappi,Quito,1,4
+2026-10-01,Uber Direct,Bogotá,4,16
+2026-10-01,Uber Direct,Ciudad de México,6,24
+2026-10-01,Uber Direct,Guayaquil,4,16
+2026-10-01,Uber Direct,Lima,4,16
+2026-10-01,Uber Direct,Medellín,1,4
+2026-10-01,Uber Direct,Quito,4,16
+2026-10-02,DiDi,Bogotá,3,12
+2026-10-02,DiDi,Ciudad de México,2,8
+2026-10-02,DiDi,Medellín,1,4
+2026-10-02,DiDi,Quito,5,20
+2026-10-02,Flota propia,Bogotá,4,16
+2026-10-02,Flota propia,Ciudad de México,5,20
+2026-10-02,Flota propia,Guayaquil,2,8
+2026-10-02,Flota propia,Medellín,1,4
+2026-10-02,Pedidos Ya,Bogotá,1,4
+2026-10-02,Pedidos Ya,Guayaquil,1,4
+2026-10-02,Pedidos Ya,Lima,1,4
+2026-10-02,Pedidos Ya,Medellín,3,12
+2026-10-02,Rappi,Bogotá,5,20
+2026-10-02,Rappi,Ciudad de México,3,12
+2026-10-02,Rappi,Guayaquil,1,4
+2026-10-02,Rappi,Quito,1,4
+2026-10-02,Uber Direct,Bogotá,4,16
+2026-10-02,Uber Direct,Ciudad de México,1,4
+2026-10-02,Uber Direct,Lima,1,4
+2026-10-02,Uber Direct,Medellín,2,8
+2026-10-02,Uber Direct,Quito,2,8
+2026-10-03,DiDi,Bogotá,8,32
+2026-10-03,DiDi,Ciudad de México,3,12
+2026-10-03,DiDi,Guayaquil,1,4
+2026-10-03,DiDi,Lima,1,4
+2026-10-03,DiDi,Medellín,2,8
+2026-10-03,DiDi,Quito,2,8
+2026-10-03,Flota propia,Bogotá,2,8
+2026-10-03,Flota propia,Ciudad de México,5,20
+2026-10-03,Flota propia,Guayaquil,1,4
+2026-10-03,Flota propia,Quito,1,4
+2026-10-03,Pedidos Ya,Ciudad de México,2,4
+2026-10-03,Pedidos Ya,Medellín,1,4
+2026-10-03,Rappi,Bogotá,4,16
+2026-10-03,Rappi,Ciudad de México,6,24
+2026-10-03,Rappi,Guayaquil,2,8
+2026-10-03,Rappi,Lima,2,8
+2026-10-03,Rappi,Medellín,3,12
+2026-10-03,Rappi,Quito,1,4
+2026-10-03,Uber Direct,Bogotá,8,32
+2026-10-03,Uber Direct,Ciudad de México,3,12
+2026-10-03,Uber Direct,Guayaquil,1,4
+2026-10-03,Uber Direct,Lima,2,8
+2026-10-03,Uber Direct,Medellín,6,24
+2026-10-03,Uber Direct,Quito,1,4
+2026-10-04,DiDi,Bogotá,9,36
+2026-10-04,DiDi,Ciudad de México,1,4
+2026-10-04,DiDi,Guayaquil,2,8
+2026-10-04,DiDi,Medellín,3,12
+2026-10-04,DiDi,Quito,2,8
+2026-10-04,Flota propia,Bogotá,1,4
+2026-10-04,Flota propia,Ciudad de México,1,4
+2026-10-04,Flota propia,Medellín,4,16
+2026-10-04,Flota propia,Quito,3,12
+2026-10-04,Pedidos Ya,Bogotá,3,12
+2026-10-04,Pedidos Ya,Ciudad de México,1,4
+2026-10-04,Pedidos Ya,Guayaquil,2,8
+2026-10-04,Pedidos Ya,Medellín,3,12
+2026-10-04,Rappi,Bogotá,3,12
+2026-10-04,Rappi,Ciudad de México,6,24
+2026-10-04,Rappi,Guayaquil,1,4
+2026-10-04,Rappi,Lima,1,4
+2026-10-04,Rappi,Medellín,2,8
+2026-10-04,Rappi,Quito,1,4
+2026-10-04,Uber Direct,Bogotá,4,14
+2026-10-04,Uber Direct,Ciudad de México,9,36
+2026-10-04,Uber Direct,Guayaquil,3,12
+2026-10-04,Uber Direct,Lima,1,4
+2026-10-04,Uber Direct,Medellín,4,16
+2026-10-04,Uber Direct,Quito,4,16
+2026-10-05,DiDi,Bogotá,3,12
+2026-10-05,DiDi,Ciudad de México,2,8
+2026-10-05,DiDi,Guayaquil,1,4
+2026-10-05,DiDi,Lima,1,4
+2026-10-05,Flota propia,Ciudad de México,2,8
+2026-10-05,Flota propia,Quito,1,4
+2026-10-05,Pedidos Ya,Bogotá,2,8
+2026-10-05,Pedidos Ya,Ciudad de México,2,8
+2026-10-05,Pedidos Ya,Guayaquil,3,12
+2026-10-05,Pedidos Ya,Lima,2,8
+2026-10-05,Pedidos Ya,Medellín,1,4
+2026-10-05,Rappi,Bogotá,3,12
+2026-10-05,Rappi,Ciudad de México,6,24
+2026-10-05,Rappi,Guayaquil,2,8
+2026-10-05,Rappi,Lima,1,4
+2026-10-05,Rappi,Medellín,4,16
+2026-10-05,Rappi,Quito,4,16
+2026-10-05,Uber Direct,Bogotá,2,8
+2026-10-05,Uber Direct,Ciudad de México,6,24
+2026-10-05,Uber Direct,Guayaquil,6,24
+2026-10-05,Uber Direct,Lima,2,8
+2026-10-05,Uber Direct,Medellín,2,8
+2026-10-05,Uber Direct,Quito,1,4
+2026-10-06,DiDi,Bogotá,7,28
+2026-10-06,DiDi,Ciudad de México,5,20
+2026-10-06,DiDi,Guayaquil,1,4
+2026-10-06,DiDi,Lima,1,4
+2026-10-06,DiDi,Medellín,2,8
+2026-10-06,Flota propia,Bogotá,3,12
+2026-10-06,Flota propia,Ciudad de México,1,4
+2026-10-06,Flota propia,Guayaquil,2,8
+2026-10-06,Flota propia,Medellín,4,16
+2026-10-06,Flota propia,Quito,2,8
+2026-10-06,Pedidos Ya,Bogotá,1,4
+2026-10-06,Pedidos Ya,Ciudad de México,2,8
+2026-10-06,Pedidos Ya,Medellín,1,4
+2026-10-06,Pedidos Ya,Quito,1,4
+2026-10-06,Rappi,Bogotá,7,28
+2026-10-06,Rappi,Ciudad de México,3,12
+2026-10-06,Rappi,Guayaquil,1,4
+2026-10-06,Rappi,Lima,2,8
+2026-10-06,Rappi,Medellín,3,12
+2026-10-06,Rappi,Quito,1,4
+2026-10-06,Uber Direct,Bogotá,2,8
+2026-10-06,Uber Direct,Ciudad de México,7,26
+2026-10-06,Uber Direct,Guayaquil,2,8
+2026-10-06,Uber Direct,Lima,1,4
+2026-10-06,Uber Direct,Medellín,3,12
+2026-10-07,DiDi,Bogotá,9,36
+2026-10-07,DiDi,Ciudad de México,4,16
+2026-10-07,DiDi,Guayaquil,1,4
+2026-10-07,DiDi,Lima,2,8
+2026-10-07,DiDi,Medellín,3,12
+2026-10-07,DiDi,Quito,1,4
+2026-10-07,Flota propia,Bogotá,5,18
+2026-10-07,Flota propia,Ciudad de México,5,20
+2026-10-07,Flota propia,Guayaquil,1,2
+2026-10-07,Flota propia,Lima,1,4
+2026-10-07,Flota propia,Medellín,3,12
+2026-10-07,Flota propia,Quito,3,12
+2026-10-07,Pedidos Ya,Bogotá,2,8
+2026-10-07,Pedidos Ya,Ciudad de México,1,4
+2026-10-07,Pedidos Ya,Guayaquil,2,8
+2026-10-07,Pedidos Ya,Quito,1,4
+2026-10-07,Rappi,Bogotá,6,22
+2026-10-07,Rappi,Ciudad de México,4,16
+2026-10-07,Rappi,Guayaquil,1,4
+2026-10-07,Rappi,Lima,2,8
+2026-10-07,Rappi,Medellín,1,4
+2026-10-07,Rappi,Quito,1,4
+2026-10-07,Uber Direct,Bogotá,2,8
+2026-10-07,Uber Direct,Ciudad de México,4,16
+2026-10-07,Uber Direct,Guayaquil,4,14
+2026-10-07,Uber Direct,Lima,1,4
+2026-10-08,DiDi,Bogotá,9,34
+2026-10-08,DiDi,Ciudad de México,4,16
+2026-10-08,DiDi,Guayaquil,2,8
+2026-10-08,DiDi,Lima,2,8
+2026-10-08,DiDi,Medellín,2,8
+2026-10-08,DiDi,Quito,2,8
+2026-10-08,Flota propia,Bogotá,4,16
+2026-10-08,Flota propia,Ciudad de México,2,8
+2026-10-08,Flota propia,Guayaquil,2,8
+2026-10-08,Flota propia,Medellín,1,4
+2026-10-08,Flota propia,Quito,2,8
+2026-10-08,Pedidos Ya,Bogotá,3,12
+2026-10-08,Pedidos Ya,Ciudad de México,4,16
+2026-10-08,Pedidos Ya,Guayaquil,1,4
+2026-10-08,Pedidos Ya,Lima,1,4
+2026-10-08,Pedidos Ya,Medellín,2,8
+2026-10-08,Rappi,Bogotá,9,36
+2026-10-08,Rappi,Ciudad de México,6,24
+2026-10-08,Rappi,Guayaquil,1,4
+2026-10-08,Rappi,Lima,2,6
+2026-10-08,Rappi,Medellín,1,4
+2026-10-08,Rappi,Quito,1,4
+2026-10-08,Uber Direct,Bogotá,5,18
+2026-10-08,Uber Direct,Ciudad de México,5,20
+2026-10-08,Uber Direct,Guayaquil,4,16
+2026-10-08,Uber Direct,Lima,2,8
+2026-10-08,Uber Direct,Medellín,2,8
+2026-10-08,Uber Direct,Quito,2,8
+2026-10-09,DiDi,Bogotá,7,28
+2026-10-09,DiDi,Ciudad de México,2,8
+2026-10-09,DiDi,Lima,1,4
+2026-10-09,DiDi,Medellín,1,4
+2026-10-09,DiDi,Quito,1,4
+2026-10-09,Flota propia,Bogotá,3,12
+2026-10-09,Flota propia,Ciudad de México,1,4
+2026-10-09,Flota propia,Guayaquil,2,8
+2026-10-09,Flota propia,Medellín,2,8
+2026-10-09,Pedidos Ya,Bogotá,2,8
+2026-10-09,Pedidos Ya,Ciudad de México,3,12
+2026-10-09,Pedidos Ya,Lima,1,4
+2026-10-09,Pedidos Ya,Medellín,1,4
+2026-10-09,Rappi,Bogotá,6,24
+2026-10-09,Rappi,Ciudad de México,4,16
+2026-10-09,Rappi,Lima,2,8
+2026-10-09,Uber Direct,Bogotá,5,20
+2026-10-09,Uber Direct,Ciudad de México,2,8
+2026-10-09,Uber Direct,Guayaquil,3,10
+2026-10-09,Uber Direct,Lima,4,16
+2026-10-09,Uber Direct,Medellín,2,8
+2026-10-09,Uber Direct,Quito,4,16
+2026-10-10,DiDi,Bogotá,4,16
+2026-10-10,DiDi,Ciudad de México,4,16
+2026-10-10,DiDi,Guayaquil,3,12
+2026-10-10,DiDi,Medellín,2,8
+2026-10-10,DiDi,Quito,1,4
+2026-10-10,Flota propia,Bogotá,1,4
+2026-10-10,Flota propia,Ciudad de México,2,8
+2026-10-10,Flota propia,Medellín,1,4
+2026-10-10,Pedidos Ya,Bogotá,5,20
+2026-10-10,Pedidos Ya,Lima,2,8
+2026-10-10,Pedidos Ya,Medellín,2,8
+2026-10-10,Rappi,Bogotá,2,8
+2026-10-10,Rappi,Ciudad de México,5,20
+2026-10-10,Rappi,Guayaquil,1,4
+2026-10-10,Rappi,Lima,1,4
+2026-10-10,Rappi,Medellín,3,12
+2026-10-10,Rappi,Quito,1,4
+2026-10-10,Uber Direct,Bogotá,6,24
+2026-10-10,Uber Direct,Ciudad de México,14,54
+2026-10-10,Uber Direct,Guayaquil,4,16
+2026-10-10,Uber Direct,Lima,2,8
+2026-10-10,Uber Direct,Medellín,4,16
+2026-10-10,Uber Direct,Quito,5,20
+2026-10-11,DiDi,Bogotá,2,8
+2026-10-11,DiDi,Ciudad de México,3,12
+2026-10-11,DiDi,Guayaquil,1,4
+2026-10-11,DiDi,Lima,1,4
+2026-10-11,DiDi,Medellín,2,8
+2026-10-11,DiDi,Quito,1,4
+2026-10-11,Flota propia,Bogotá,2,8
+2026-10-11,Flota propia,Ciudad de México,1,4
+2026-10-11,Flota propia,Quito,2,8
+2026-10-11,Pedidos Ya,Bogotá,4,16
+2026-10-11,Pedidos Ya,Ciudad de México,2,6
+2026-10-11,Pedidos Ya,Guayaquil,1,4
+2026-10-11,Rappi,Bogotá,2,8
+2026-10-11,Rappi,Ciudad de México,3,12
+2026-10-11,Rappi,Guayaquil,1,4
+2026-10-11,Rappi,Lima,2,8
+2026-10-11,Rappi,Medellín,4,16
+2026-10-11,Rappi,Quito,2,8
+2026-10-11,Uber Direct,Bogotá,6,24
+2026-10-11,Uber Direct,Ciudad de México,8,28
+2026-10-11,Uber Direct,Guayaquil,3,0
+2026-10-11,Uber Direct,Lima,1,4
+2026-10-11,Uber Direct,Medellín,3,12
+2026-10-11,Uber Direct,Quito,1,4
+2026-10-12,DiDi,Bogotá,6,24
+2026-10-12,DiDi,Ciudad de México,3,12
+2026-10-12,DiDi,Medellín,4,16
+2026-10-12,DiDi,Quito,3,12
+2026-10-12,Flota propia,Bogotá,7,28
+2026-10-12,Flota propia,Ciudad de México,2,8
+2026-10-12,Flota propia,Guayaquil,3,12
+2026-10-12,Flota propia,Lima,2,8
+2026-10-12,Flota propia,Quito,2,8
+2026-10-12,Pedidos Ya,Bogotá,1,4
+2026-10-12,Pedidos Ya,Ciudad de México,3,12
+2026-10-12,Pedidos Ya,Lima,2,8
+2026-10-12,Pedidos Ya,Medellín,2,8
+2026-10-12,Pedidos Ya,Quito,3,12
+2026-10-12,Rappi,Bogotá,6,24
+2026-10-12,Rappi,Ciudad de México,6,24
+2026-10-12,Rappi,Guayaquil,1,4
+2026-10-12,Rappi,Medellín,1,4
+2026-10-12,Rappi,Quito,4,16
+2026-10-12,Uber Direct,Bogotá,4,14
+2026-10-12,Uber Direct,Ciudad de México,5,20
+2026-10-12,Uber Direct,Guayaquil,2,0
+2026-10-12,Uber Direct,Medellín,5,20
+2026-10-12,Uber Direct,Quito,1,4
+2026-10-13,DiDi,Bogotá,9,36
+2026-10-13,DiDi,Ciudad de México,2,8
+2026-10-13,DiDi,Guayaquil,4,16
+2026-10-13,DiDi,Lima,2,8
+2026-10-13,DiDi,Medellín,1,4
+2026-10-13,Flota propia,Bogotá,3,12
+2026-10-13,Flota propia,Ciudad de México,2,8
+2026-10-13,Flota propia,Guayaquil,1,4
+2026-10-13,Flota propia,Lima,2,8
+2026-10-13,Flota propia,Medellín,3,12
+2026-10-13,Pedidos Ya,Bogotá,1,4
+2026-10-13,Pedidos Ya,Ciudad de México,1,4
+2026-10-13,Pedidos Ya,Guayaquil,2,8
+2026-10-13,Pedidos Ya,Lima,1,4
+2026-10-13,Pedidos Ya,Medellín,2,8
+2026-10-13,Pedidos Ya,Quito,2,8
+2026-10-13,Rappi,Bogotá,7,28
+2026-10-13,Rappi,Ciudad de México,2,8
+2026-10-13,Rappi,Guayaquil,3,12
+2026-10-13,Rappi,Lima,3,12
+2026-10-13,Rappi,Medellín,1,4
+2026-10-13,Rappi,Quito,3,10
+2026-10-13,Uber Direct,Bogotá,7,28
+2026-10-13,Uber Direct,Ciudad de México,5,20
+2026-10-13,Uber Direct,Guayaquil,3,0
+2026-10-13,Uber Direct,Lima,1,4
+2026-10-13,Uber Direct,Medellín,4,16
+2026-10-14,DiDi,Bogotá,5,20
+2026-10-14,DiDi,Ciudad de México,5,20
+2026-10-14,DiDi,Guayaquil,4,16
+2026-10-14,DiDi,Lima,2,8
+2026-10-14,DiDi,Medellín,1,4
+2026-10-14,DiDi,Quito,1,4
+2026-10-14,Flota propia,Ciudad de México,2,8
+2026-10-14,Flota propia,Medellín,1,4
+2026-10-14,Flota propia,Quito,1,4
+2026-10-14,Pedidos Ya,Ciudad de México,5,20
+2026-10-14,Pedidos Ya,Guayaquil,3,12
+2026-10-14,Pedidos Ya,Medellín,3,12
+2026-10-14,Rappi,Bogotá,4,16
+2026-10-14,Rappi,Ciudad de México,2,8
+2026-10-14,Rappi,Guayaquil,3,12
+2026-10-14,Rappi,Lima,1,4
+2026-10-14,Rappi,Medellín,2,8
+2026-10-14,Rappi,Quito,2,8
+2026-10-14,Uber Direct,Bogotá,4,16
+2026-10-14,Uber Direct,Ciudad de México,4,14
+2026-10-14,Uber Direct,Guayaquil,4,0
+2026-10-14,Uber Direct,Medellín,4,16
+2026-10-14,Uber Direct,Quito,2,8
+2026-10-15,DiDi,Bogotá,2,8
+2026-10-15,DiDi,Guayaquil,1,4
+2026-10-15,DiDi,Medellín,1,4
+2026-10-15,DiDi,Quito,3,12
+2026-10-15,Flota propia,Bogotá,1,4
+2026-10-15,Flota propia,Ciudad de México,3,12
+2026-10-15,Flota propia,Guayaquil,1,4
+2026-10-15,Flota propia,Lima,1,4
+2026-10-15,Flota propia,Medellín,1,4
+2026-10-15,Flota propia,Quito,1,4
+2026-10-15,Pedidos Ya,Bogotá,3,12
+2026-10-15,Pedidos Ya,Ciudad de México,4,14
+2026-10-15,Pedidos Ya,Lima,1,4
+2026-10-15,Pedidos Ya,Medellín,2,8
+2026-10-15,Rappi,Bogotá,3,12
+2026-10-15,Rappi,Ciudad de México,3,10
+2026-10-15,Rappi,Guayaquil,1,4
+2026-10-15,Rappi,Lima,5,20
+2026-10-15,Rappi,Medellín,3,12
+2026-10-15,Uber Direct,Bogotá,4,16
+2026-10-15,Uber Direct,Ciudad de México,7,28
+2026-10-15,Uber Direct,Guayaquil,1,0
+2026-10-15,Uber Direct,Medellín,2,8
+2026-10-16,DiDi,Bogotá,4,16
+2026-10-16,DiDi,Ciudad de México,2,8
+2026-10-16,DiDi,Guayaquil,3,12
+2026-10-16,DiDi,Lima,1,4
+2026-10-16,DiDi,Medellín,2,8
+2026-10-16,DiDi,Quito,1,4
+2026-10-16,Flota propia,Bogotá,1,4
+2026-10-16,Flota propia,Ciudad de México,3,12
+2026-10-16,Flota propia,Guayaquil,2,8
+2026-10-16,Flota propia,Quito,1,4
+2026-10-16,Pedidos Ya,Bogotá,5,20
+2026-10-16,Pedidos Ya,Ciudad de México,3,12
+2026-10-16,Pedidos Ya,Guayaquil,1,4
+2026-10-16,Pedidos Ya,Lima,1,4
+2026-10-16,Pedidos Ya,Medellín,4,16
+2026-10-16,Rappi,Bogotá,1,4
+2026-10-16,Rappi,Ciudad de México,4,16
+2026-10-16,Rappi,Guayaquil,1,4
+2026-10-16,Rappi,Lima,1,4
+2026-10-16,Rappi,Medellín,6,24
+2026-10-16,Rappi,Quito,2,8
+2026-10-16,Uber Direct,Bogotá,7,28
+2026-10-16,Uber Direct,Ciudad de México,3,12
+2026-10-16,Uber Direct,Guayaquil,2,0
+2026-10-16,Uber Direct,Lima,1,4
+2026-10-16,Uber Direct,Medellín,2,8
+2026-10-16,Uber Direct,Quito,2,8
+2026-10-17,DiDi,Bogotá,5,18
+2026-10-17,DiDi,Ciudad de México,4,16
+2026-10-17,DiDi,Guayaquil,2,8
+2026-10-17,DiDi,Lima,3,12
+2026-10-17,DiDi,Medellín,3,12
+2026-10-17,DiDi,Quito,2,8
+2026-10-17,Flota propia,Ciudad de México,2,8
+2026-10-17,Flota propia,Guayaquil,1,4
+2026-10-17,Flota propia,Lima,2,8
+2026-10-17,Flota propia,Medellín,1,4
+2026-10-17,Pedidos Ya,Bogotá,2,8
+2026-10-17,Pedidos Ya,Ciudad de México,1,4
+2026-10-17,Pedidos Ya,Guayaquil,1,4
+2026-10-17,Pedidos Ya,Quito,2,8
+2026-10-17,Rappi,Bogotá,3,12
+2026-10-17,Rappi,Ciudad de México,3,12
+2026-10-17,Rappi,Quito,3,12
+2026-10-17,Uber Direct,Bogotá,2,8
+2026-10-17,Uber Direct,Ciudad de México,5,20
+2026-10-17,Uber Direct,Guayaquil,1,0
+2026-10-17,Uber Direct,Lima,2,8
+2026-10-17,Uber Direct,Medellín,6,24
+2026-10-17,Uber Direct,Quito,2,8
+2026-10-18,DiDi,Bogotá,7,28
+2026-10-18,DiDi,Ciudad de México,1,4
+2026-10-18,DiDi,Guayaquil,1,4
+2026-10-18,DiDi,Medellín,1,4
+2026-10-18,Flota propia,Bogotá,2,8
+2026-10-18,Flota propia,Ciudad de México,2,8
+2026-10-18,Flota propia,Guayaquil,3,12
+2026-10-18,Flota propia,Medellín,2,4
+2026-10-18,Flota propia,Quito,1,4
+2026-10-18,Pedidos Ya,Guayaquil,3,12
+2026-10-18,Pedidos Ya,Lima,1,4
+2026-10-18,Pedidos Ya,Medellín,1,4
+2026-10-18,Rappi,Bogotá,7,28
+2026-10-18,Rappi,Ciudad de México,3,12
+2026-10-18,Rappi,Guayaquil,2,8
+2026-10-18,Rappi,Medellín,2,8
+2026-10-18,Rappi,Quito,1,4
+2026-10-18,Uber Direct,Bogotá,6,24
+2026-10-18,Uber Direct,Ciudad de México,2,8
+2026-10-18,Uber Direct,Guayaquil,2,0
+2026-10-18,Uber Direct,Lima,1,4
+2026-10-19,DiDi,Bogotá,17,66
+2026-10-19,DiDi,Ciudad de México,2,8
+2026-10-19,DiDi,Guayaquil,2,8
+2026-10-19,DiDi,Medellín,3,12
+2026-10-19,Flota propia,Bogotá,5,20
+2026-10-19,Flota propia,Ciudad de México,1,4
+2026-10-19,Flota propia,Guayaquil,1,4
+2026-10-19,Flota propia,Medellín,1,4
+2026-10-19,Pedidos Ya,Bogotá,1,4
+2026-10-19,Pedidos Ya,Ciudad de México,4,16
+2026-10-19,Pedidos Ya,Medellín,1,4
+2026-10-19,Pedidos Ya,Quito,1,4
+2026-10-19,Rappi,Bogotá,2,8
+2026-10-19,Rappi,Ciudad de México,7,28
+2026-10-19,Rappi,Guayaquil,3,12
+2026-10-19,Rappi,Lima,5,20
+2026-10-19,Rappi,Medellín,4,14
+2026-10-19,Rappi,Quito,1,2
+2026-10-19,Uber Direct,Bogotá,2,8
+2026-10-19,Uber Direct,Ciudad de México,3,12
+2026-10-19,Uber Direct,Guayaquil,1,0
+2026-10-19,Uber Direct,Quito,1,4
+2026-10-20,DiDi,Bogotá,7,28
+2026-10-20,DiDi,Ciudad de México,4,16
+2026-10-20,DiDi,Guayaquil,1,4
+2026-10-20,DiDi,Lima,1,4
+2026-10-20,DiDi,Medellín,4,16
+2026-10-20,DiDi,Quito,1,4
+2026-10-20,Flota propia,Bogotá,4,16
+2026-10-20,Flota propia,Ciudad de México,2,8
+2026-10-20,Pedidos Ya,Bogotá,2,8
+2026-10-20,Pedidos Ya,Ciudad de México,1,4
+2026-10-20,Pedidos Ya,Guayaquil,1,4
+2026-10-20,Pedidos Ya,Lima,1,2
+2026-10-20,Pedidos Ya,Medellín,3,12
+2026-10-20,Pedidos Ya,Quito,3,12
+2026-10-20,Rappi,Bogotá,5,20
+2026-10-20,Rappi,Ciudad de México,6,24
+2026-10-20,Rappi,Lima,2,8
+2026-10-20,Rappi,Medellín,5,20
+2026-10-20,Uber Direct,Bogotá,2,8
+2026-10-20,Uber Direct,Ciudad de México,4,16
+2026-10-20,Uber Direct,Guayaquil,3,0
+2026-10-20,Uber Direct,Lima,3,12
+2026-10-20,Uber Direct,Medellín,2,8
+2026-10-20,Uber Direct,Quito,4,16

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "MSG-001",
+    "timestamp": "2026-10-21 10:41",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "María Torres",
+    "de_contacto": "+57 384 552 7194",
+    "mensaje": "Gracias, llegó todo perfecto 🙌"
+  },
+  {
+    "id": "MSG-002",
+    "timestamp": "2026-10-21 11:40",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Andrés Mora",
+    "de_contacto": "+57 373 564 8721",
+    "mensaje": "me llegó el pedido pero faltó la salsa de anguila y uno de los rolls"
+  },
+  {
+    "id": "MSG-003",
+    "timestamp": "2026-10-21 11:55",
+    "canal": "widget_panel",
+    "de_tipo": "repartidor",
+    "de_nombre": "Kevin A.",
+    "de_contacto": "+51 964 788 2284",
+    "mensaje": "buenas, ¿cuándo pagan la semana? no me ha caído"
+  },
+  {
+    "id": "MSG-004",
+    "timestamp": "2026-10-21 12:05",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "María Torres",
+    "de_contacto": "maria.torres.pe@correo-ficticio.com",
+    "mensaje": "Me cobraron el pedido de la farmacia en mi tarjeta y después lo cancelaron. Quiero mi reembolso hoy."
+  },
+  {
+    "id": "MSG-005",
+    "timestamp": "2026-10-21 12:10",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Valentina Ríos",
+    "de_contacto": "valentina.rios@correo-ficticio.mx",
+    "mensaje": "Hola, ¿me pueden mandar la factura de mi pedido de esta mañana? RFC por WhatsApp si lo necesitan"
+  },
+  {
+    "id": "MSG-006",
+    "timestamp": "2026-10-21 12:20",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Mateo Paz",
+    "de_contacto": "+57 317 274 9412",
+    "mensaje": "Me cancelaron el pedido y nadie me avisó. Iba a pagar en efectivo, ¿lo vuelven a mandar?"
+  },
+  {
+    "id": "MSG-007",
+    "timestamp": "2026-10-21 12:30",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Sushi Kaze HQ",
+    "de_contacto": "ops@sushikaze-ficticio.com",
+    "mensaje": "Hi team, could you send us a report of late deliveries for all Sushi Kaze branches over the last two months? Our Condesa manager says the drivers are the problem. Thanks!"
+  },
+  {
+    "id": "MSG-008",
+    "timestamp": "2026-10-21 12:47",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Pizzería Don Luigi",
+    "de_contacto": "gerencia@donluigi-ficticio.com",
+    "mensaje": "Queremos sumar la sucursal de Cumbayá al servicio. ¿Qué necesitan de nosotros?"
+  },
+  {
+    "id": "MSG-009",
+    "timestamp": "2026-10-21 13:02",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Pizzería Don Luigi El Poblado",
+    "de_contacto": "donluigi@panel.picker-ficticio.com",
+    "mensaje": "El pedido de Ana Pérez acá en Poblado no salió. ¿Lo pueden volver a mandar?"
+  },
+  {
+    "id": "MSG-010",
+    "timestamp": "2026-10-21 13:05",
+    "canal": "widget_panel",
+    "de_tipo": "repartidor",
+    "de_nombre": "Yuli R.",
+    "de_contacto": "+52 55 69 176 7655",
+    "mensaje": "buenas se me ponchó la llanta en Ejército Nacional, no voy a poder llegar al local de polanco. ya le avise a rappi"
+  },
+  {
+    "id": "MSG-011",
+    "timestamp": "2026-10-21 13:10",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Lucía Herrera",
+    "de_contacto": "+593 996 313 6348",
+    "mensaje": "Hola, me llegó un mensaje de que mi pedido de sushi no se pudo enviar. ¿Me devuelven la plata?"
+  },
+  {
+    "id": "MSG-012",
+    "timestamp": "2026-10-21 13:12",
+    "canal": "widget_panel",
+    "de_tipo": "desconocido",
+    "de_nombre": "Promo Seguidores",
+    "de_contacto": "+1 555 0100",
+    "mensaje": "🔥 Aumenta tus seguidores en Instagram 10K por solo 9.99 USD 🔥 escribe YA"
+  },
+  {
+    "id": "MSG-013",
+    "timestamp": "2026-10-21 13:15",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Café Altura - El Poblado",
+    "de_contacto": "poblado@cafealtura-ficticio.co",
+    "mensaje": "Hola, el pedido CAF-57604 quedó como fallido. ¿Por qué no salió? El cliente ya nos llamó."
+  },
+  {
+    "id": "MSG-014",
+    "timestamp": "2026-10-21 13:15",
+    "canal": "widget_panel",
+    "de_tipo": "interno",
+    "de_nombre": "Valeria (Operaciones)",
+    "de_contacto": "ops-latam@panel.picker-ficticio.com",
+    "mensaje": "Ojo: anoche DiDi Bogotá volvió a fallar después de las 9. ¿Alguien lo está siguiendo?"
+  },
+  {
+    "id": "MSG-015",
+    "timestamp": "2026-10-21 13:22",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Pizzería Don Luigi Polanco",
+    "de_contacto": "donluigi@panel.picker-ficticio.com",
+    "mensaje": "El repartidor de Rappi del pedido de Ana Pérez no ha llegado, la pizza lleva 25 min lista en el mostrador"
+  },
+  {
+    "id": "MSG-016",
+    "timestamp": "2026-10-21 13:30",
+    "canal": "widget_panel",
+    "de_tipo": "interno",
+    "de_nombre": "Valeria (Operaciones)",
+    "de_contacto": "ops-latam@panel.picker-ficticio.com",
+    "mensaje": "¿Alguien está viendo Medellín? Van varios pedidos sin asignar desde el mediodía."
+  },
+  {
+    "id": "MSG-017",
+    "timestamp": "2026-10-21 13:31",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Jorge Castro",
+    "de_contacto": "+593 969 563 9270",
+    "mensaje": "Hola, mi pizza debía llegar 13:23 y nada"
+  },
+  {
+    "id": "MSG-018",
+    "timestamp": "2026-10-21 13:35",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Farmacia Salud Total - Usaquén",
+    "de_contacto": "usaquen@saludtotal-ficticio.co",
+    "mensaje": "Buenas tardes. El pedido de la señora Sofía Vargas lleva insulina y necesita cadena de frío. El mensajero no ha llegado. Por favor NO lo cambien de mensajero sin avisarnos, tenemos que registrar quién lo recoge."
+  },
+  {
+    "id": "MSG-019",
+    "timestamp": "2026-10-21 13:40",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Jorge Castro",
+    "de_contacto": "+593 969 563 9270",
+    "mensaje": "mi pollo nunca llegó, ya son casi las 2"
+  },
+  {
+    "id": "MSG-020",
+    "timestamp": "2026-10-21 13:41",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Sushi Kaze Condesa (cocina)",
+    "de_contacto": "sushikaze@panel.picker-ficticio.com",
+    "mensaje": "Equipo, hoy la cocina está saturada, los pedidos van a estar saliendo con unos 15 min de demora. Perdón 🙏"
+  },
+  {
+    "id": "MSG-021",
+    "timestamp": "2026-10-21 13:44",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Jorge Castro",
+    "de_contacto": "+593 969 563 9270",
+    "mensaje": "Hola, mi pizza debía llegar 13:23 y nada"
+  },
+  {
+    "id": "MSG-022",
+    "timestamp": "2026-10-21 13:46",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Diego Salas",
+    "de_contacto": "+51 962 847 3672",
+    "mensaje": "Hola, ¿el repartidor puede pasar por un paracetamol también? 🙏"
+  },
+  {
+    "id": "MSG-023",
+    "timestamp": "2026-10-21 13:47",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Pizzería Don Luigi Polanco",
+    "de_contacto": "donluigi@panel.picker-ficticio.com",
+    "mensaje": "??? se está enfriando, ¿qué hacemos?"
+  },
+  {
+    "id": "MSG-024",
+    "timestamp": "2026-10-21 13:49",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Luis Gómez",
+    "de_contacto": "+51 989 116 9475",
+    "mensaje": "¿me pueden dejar el pedido en portería? no voy a estar en el depto"
+  },
+  {
+    "id": "MSG-025",
+    "timestamp": "2026-10-21 13:50",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Ana Pérez",
+    "de_contacto": "ana.perez.mx@correo-ficticio.com",
+    "mensaje": "Llevo más de una hora esperando mi pizza. Pagué en efectivo y ya ni sé si va a llegar. Esto es inaceptable."
+  },
+  {
+    "id": "MSG-026",
+    "timestamp": "2026-10-21 13:51",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Lucía Herrera",
+    "de_contacto": "+52 55 24 618 2066",
+    "mensaje": "el repartidor lleva un buen rato parado en el mapa, ¿todo bien?"
+  },
+  {
+    "id": "MSG-027",
+    "timestamp": "2026-10-21 13:52",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Andrés Mora",
+    "de_contacto": "+52 55 35 151 4728",
+    "mensaje": "buenas, voy a pagar en efectivo, el repartidor trae cambio de 500? solo tengo billete de 500"
+  },
+  {
+    "id": "MSG-028",
+    "timestamp": "2026-10-21 13:54",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Farmacia Salud Total - Surco",
+    "de_contacto": "saludtotal@panel.picker-ficticio.com",
+    "mensaje": "El pedido de Diego Salas va con Rappi, ¿verdad? El cliente pregunta si le pueden llevar otra cosa más."
+  },
+  {
+    "id": "MSG-029",
+    "timestamp": "2026-10-21 13:55",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Sofía Vargas",
+    "de_contacto": "+57 316 418 7483",
+    "mensaje": "Primero me fallaron el pedido de la farmacia de las 12:56 y ahora el segundo tampoco llega. Es medicina para mi mamá. ¿Qué está pasando?"
+  },
+  {
+    "id": "MSG-030",
+    "timestamp": "2026-10-21 13:57",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Jorge Castro",
+    "de_contacto": "+593 969 563 9270",
+    "mensaje": "si no llega en 10 minutos cancelo y pongo la queja en redes"
+  },
+  {
+    "id": "MSG-031",
+    "timestamp": "2026-10-21 13:58",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Mateo Paz",
+    "de_contacto": "+52 55 30 874 2159",
+    "mensaje": "Hola, pedí sushi de Sushi Kaze hace como media hora y la app dice que ya debía llegar 😕 ¿dónde viene?"
+  },
+  {
+    "id": "MSG-032",
+    "timestamp": "2026-10-21 13:58",
+    "canal": "widget_panel",
+    "de_tipo": "comercio",
+    "de_nombre": "Burger Lab - Laureles",
+    "de_contacto": "laureles@burgerlab-ficticio.co",
+    "mensaje": "Hola, ¿cómo va el pedido 12316? El cliente está preguntando."
+  },
+  {
+    "id": "MSG-033",
+    "timestamp": "2026-10-21 13:59",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Lucía Herrera",
+    "de_contacto": "+593 996 313 6348",
+    "mensaje": "hola, ¿mi pedido?"
+  },
+  {
+    "id": "MSG-034",
+    "timestamp": "2026-10-21 14:00",
+    "canal": "widget_panel",
+    "de_tipo": "cliente",
+    "de_nombre": "Mateo Paz",
+    "de_contacto": "+52 55 30 874 2159",
+    "mensaje": "??"
+  }
+]
