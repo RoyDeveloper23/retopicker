@@ -1,0 +1,202 @@
+[
+  {
+    "proveedor": "Uber Direct",
+    "pais": "CO",
+    "moneda": "COP",
+    "tarifa_base": 7150,
+    "tarifa_por_km": 1170,
+    "max_km": 8,
+    "limite_efectivo": 208000,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Rappi",
+    "pais": "CO",
+    "moneda": "COP",
+    "tarifa_base": 6500,
+    "tarifa_por_km": 1300,
+    "max_km": 8,
+    "limite_efectivo": 156000,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "DiDi",
+    "pais": "CO",
+    "moneda": "COP",
+    "tarifa_base": 5980,
+    "tarifa_por_km": 1235,
+    "max_km": 8,
+    "limite_efectivo": 130000,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Pedidos Ya",
+    "pais": "CO",
+    "moneda": "COP",
+    "tarifa_base": 6760,
+    "tarifa_por_km": 1105,
+    "max_km": 8,
+    "limite_efectivo": 182000,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Flota propia",
+    "pais": "CO",
+    "moneda": "COP",
+    "tarifa_base": 7800,
+    "tarifa_por_km": 910,
+    "max_km": 8,
+    "limite_efectivo": 312000,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Uber Direct",
+    "pais": "MX",
+    "moneda": "MXN",
+    "tarifa_base": 50,
+    "tarifa_por_km": 8,
+    "max_km": 8,
+    "limite_efectivo": 1440,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Rappi",
+    "pais": "MX",
+    "moneda": "MXN",
+    "tarifa_base": 45,
+    "tarifa_por_km": 9,
+    "max_km": 8,
+    "limite_efectivo": 1080,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "DiDi",
+    "pais": "MX",
+    "moneda": "MXN",
+    "tarifa_base": 41,
+    "tarifa_por_km": 9,
+    "max_km": 8,
+    "limite_efectivo": 900,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Pedidos Ya",
+    "pais": "MX",
+    "moneda": "MXN",
+    "tarifa_base": 47,
+    "tarifa_por_km": 8,
+    "max_km": 8,
+    "limite_efectivo": 1260,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Flota propia",
+    "pais": "MX",
+    "moneda": "MXN",
+    "tarifa_base": 54,
+    "tarifa_por_km": 6,
+    "max_km": 8,
+    "limite_efectivo": 2160,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Uber Direct",
+    "pais": "EC",
+    "moneda": "USD",
+    "tarifa_base": 3.03,
+    "tarifa_por_km": 0.5,
+    "max_km": 8,
+    "limite_efectivo": 88,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Rappi",
+    "pais": "EC",
+    "moneda": "USD",
+    "tarifa_base": 2.75,
+    "tarifa_por_km": 0.55,
+    "max_km": 8,
+    "limite_efectivo": 66,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "DiDi",
+    "pais": "EC",
+    "moneda": "USD",
+    "tarifa_base": 2.53,
+    "tarifa_por_km": 0.52,
+    "max_km": 8,
+    "limite_efectivo": 55,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Pedidos Ya",
+    "pais": "EC",
+    "moneda": "USD",
+    "tarifa_base": 2.86,
+    "tarifa_por_km": 0.47,
+    "max_km": 8,
+    "limite_efectivo": 77,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Flota propia",
+    "pais": "EC",
+    "moneda": "USD",
+    "tarifa_base": 3.3,
+    "tarifa_por_km": 0.39,
+    "max_km": 8,
+    "limite_efectivo": 132,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Uber Direct",
+    "pais": "PE",
+    "moneda": "PEN",
+    "tarifa_base": 10.45,
+    "tarifa_por_km": 1.71,
+    "max_km": 8,
+    "limite_efectivo": 304,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Rappi",
+    "pais": "PE",
+    "moneda": "PEN",
+    "tarifa_base": 9.5,
+    "tarifa_por_km": 1.9,
+    "max_km": 8,
+    "limite_efectivo": 228,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "DiDi",
+    "pais": "PE",
+    "moneda": "PEN",
+    "tarifa_base": 8.74,
+    "tarifa_por_km": 1.8,
+    "max_km": 8,
+    "limite_efectivo": 190,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Pedidos Ya",
+    "pais": "PE",
+    "moneda": "PEN",
+    "tarifa_base": 9.88,
+    "tarifa_por_km": 1.61,
+    "max_km": 8,
+    "limite_efectivo": 266,
+    "timeout_respuesta_s": 20
+  },
+  {
+    "proveedor": "Flota propia",
+    "pais": "PE",
+    "moneda": "PEN",
+    "tarifa_base": 11.4,
+    "tarifa_por_km": 1.33,
+    "max_km": 8,
+    "limite_efectivo": 456,
+    "timeout_respuesta_s": 20
+  }
+]

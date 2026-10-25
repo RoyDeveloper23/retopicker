@@ -1,0 +1,538 @@
+[
+  {
+    "order_id": 12340,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:34",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 409: monto en efectivo excede el límite del proveedor"
+  },
+  {
+    "order_id": 12340,
+    "intento": 2,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 13:36",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12341,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 11:04",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12342,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 11:33",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 409: monto en efectivo excede el límite del proveedor"
+  },
+  {
+    "order_id": 12342,
+    "intento": 2,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 11:35",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12342,
+    "intento": 3,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 11:37",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12343,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 10:40",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12344,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:57",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12344,
+    "intento": 2,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 12:59",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12344,
+    "intento": 3,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 13:02",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12344,
+    "intento": 4,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:03",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12344,
+    "intento": 5,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:06",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12345,
+    "intento": 1,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 11:12",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12345,
+    "intento": 2,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 11:13",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12346,
+    "intento": 1,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:53",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12346,
+    "intento": 2,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 13:56",
+    "respuesta": "PENDING",
+    "detalle": "Esperando respuesta del proveedor"
+  },
+  {
+    "order_id": 12347,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 12:38",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12347,
+    "intento": 2,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 12:39",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12347,
+    "intento": 3,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 12:40",
+    "respuesta": "REJECTED",
+    "detalle": "Fuera de la zona de cobertura del proveedor"
+  },
+  {
+    "order_id": 12347,
+    "intento": 4,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:41",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12347,
+    "intento": 5,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 12:44",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12348,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 11:49",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12349,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 11:31",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12350,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:26",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12350,
+    "intento": 2,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 13:27",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12351,
+    "intento": 1,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 10:33",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12352,
+    "intento": 1,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 12:19",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12353,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 10:40",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12354,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 12:17",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12354,
+    "intento": 2,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 12:20",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12354,
+    "intento": 3,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:21",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12354,
+    "intento": 4,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 12:22",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12354,
+    "intento": 5,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 12:24",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12355,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 13:31",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12355,
+    "intento": 2,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:32",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12355,
+    "intento": 3,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:34",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12356,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 13:31",
+    "respuesta": "REJECTED",
+    "detalle": "Fuera de la zona de cobertura del proveedor"
+  },
+  {
+    "order_id": 12356,
+    "intento": 2,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 13:33",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12357,
+    "intento": 1,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 12:53",
+    "respuesta": "REJECTED",
+    "detalle": "Distancia mayor al máximo permitido (8 km)"
+  },
+  {
+    "order_id": 12357,
+    "intento": 2,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:56",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12357,
+    "intento": 3,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 12:57",
+    "respuesta": "REJECTED",
+    "detalle": "Fuera de la zona de cobertura del proveedor"
+  },
+  {
+    "order_id": 12357,
+    "intento": 4,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 12:58",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12357,
+    "intento": 5,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:00",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12358,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 13:00",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12358,
+    "intento": 2,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:03",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12359,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:33",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12360,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 12:58",
+    "respuesta": "REJECTED",
+    "detalle": "Fuera de la zona de cobertura del proveedor"
+  },
+  {
+    "order_id": 12360,
+    "intento": 2,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:59",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12361,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:57",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12361,
+    "intento": 2,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 14:00",
+    "respuesta": "PENDING",
+    "detalle": "Esperando respuesta del proveedor"
+  },
+  {
+    "order_id": 12362,
+    "intento": 1,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:45",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12362,
+    "intento": 2,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 12:46",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12363,
+    "intento": 1,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 12:38",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12363,
+    "intento": 2,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 12:40",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12364,
+    "intento": 1,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 11:22",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12364,
+    "intento": 2,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 11:23",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12364,
+    "intento": 3,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 11:26",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12365,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 12:44",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12366,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 13:11",
+    "respuesta": "REJECTED",
+    "detalle": "Sin repartidores disponibles en la zona"
+  },
+  {
+    "order_id": 12366,
+    "intento": 2,
+    "proveedor": "Uber Direct",
+    "enviado_at": "2026-10-21 13:14",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12366,
+    "intento": 3,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:15",
+    "respuesta": "TIMEOUT",
+    "detalle": "El proveedor no respondió en 20 s"
+  },
+  {
+    "order_id": 12366,
+    "intento": 4,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 13:16",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12366,
+    "intento": 5,
+    "proveedor": "Pedidos Ya",
+    "enviado_at": "2026-10-21 13:19",
+    "respuesta": "ERROR",
+    "detalle": "HTTP 500 del proveedor"
+  },
+  {
+    "order_id": 12367,
+    "intento": 1,
+    "proveedor": "Flota propia",
+    "enviado_at": "2026-10-21 13:03",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12368,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 11:21",
+    "respuesta": "REJECTED",
+    "detalle": "Fuera de la zona de cobertura del proveedor"
+  },
+  {
+    "order_id": 12368,
+    "intento": 2,
+    "proveedor": "DiDi",
+    "enviado_at": "2026-10-21 11:23",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  },
+  {
+    "order_id": 12369,
+    "intento": 1,
+    "proveedor": "Rappi",
+    "enviado_at": "2026-10-21 10:06",
+    "respuesta": "ACCEPTED",
+    "detalle": null
+  }
+]

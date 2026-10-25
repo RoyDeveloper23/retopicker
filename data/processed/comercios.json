@@ -1,0 +1,50 @@
+[
+  {
+    "comercio": "Farmacia Salud Total",
+    "plan": "Enterprise",
+    "sla_entrega_min": 35,
+    "prioridad": "Alta",
+    "penalidad_pct_envio_si_tarde": 100,
+    "nota": "Medicamentos: no reasignar sin avisar a la sucursal"
+  },
+  {
+    "comercio": "Sushi Kaze",
+    "plan": "Growth",
+    "sla_entrega_min": 40,
+    "prioridad": "Alta",
+    "penalidad_pct_envio_si_tarde": 50,
+    "nota": "Cliente en expansión: 3 sucursales nuevas en Q4"
+  },
+  {
+    "comercio": "Pizzería Don Luigi",
+    "plan": "Growth",
+    "sla_entrega_min": 40,
+    "prioridad": "Media",
+    "penalidad_pct_envio_si_tarde": 50,
+    "nota": null
+  },
+  {
+    "comercio": "Burger Lab",
+    "plan": "Starter",
+    "sla_entrega_min": 35,
+    "prioridad": "Media",
+    "penalidad_pct_envio_si_tarde": 50,
+    "nota": null
+  },
+  {
+    "comercio": "Café Altura",
+    "plan": "Starter",
+    "sla_entrega_min": 30,
+    "prioridad": "Media",
+    "penalidad_pct_envio_si_tarde": 50,
+    "nota": "Pedidos chicos, sensibles al costo de envío"
+  },
+  {
+    "comercio": "Pollos La Granja",
+    "plan": "Starter",
+    "sla_entrega_min": 45,
+    "prioridad": "Baja",
+    "penalidad_pct_envio_si_tarde": 0,
+    "nota": "Paga por pedido, sin penalidades"
+  }
+]
