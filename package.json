@@ -7,9 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test:data": "node --experimental-strip-types --experimental-default-type=module --experimental-loader=./src/lib/data/test-loader.mjs --test src/lib/data/index.test.mjs"
+    "test:data": "node --experimental-strip-types --experimental-default-type=module --experimental-loader=./src/lib/data/test-loader.mjs --test src/lib/data/index.test.mjs src/lib/chat/conversations.test.mjs src/lib/dashboard/metrics.test.mjs src/lib/dashboard/split-view.test.mjs src/lib/ai/gemini.test.mjs src/app/api/chat/route.test.mjs"
   },
   "dependencies": {
+    "@google/genai": "^2.31.0",
     "next": "16.4.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
